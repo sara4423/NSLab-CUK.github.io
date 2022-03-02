@@ -20,7 +20,7 @@ image:
 
 ***
 
-##### 송지윤-
+##### 송지윤
 * <small>2021 ~ Present : Student of the Catholic University of Korea</small>
 ##### 이주호
 * <small>2020 ~ Present : Student of the Catholic University of Korea</small>
