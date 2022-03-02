@@ -6,7 +6,7 @@ image:
 ---
 
 
-
+***
 # Professor
 
 ***
@@ -15,6 +15,7 @@ O-Joun Lee
 * <small>Sep 2019 ~ Aug 2021: Full-time Researcher, Future IT Innovation Laboratory, Pohang University of Science and Technology (POSTECH), Pohang, Gyeongsangbuk-do, South Korea</small>
 * <small>Sep 2021 ~ Present: Professor of the Catholic University of Korea</small>
 
+***
 # Undergraduate Students
 
 ***
