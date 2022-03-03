@@ -5,6 +5,8 @@ permalink: /publication/
 image: 
 ---
 
+***
+
 # Journal Publications
 
 ***
@@ -41,7 +43,11 @@ image:
 
 * O-joun Lee†, Min-sung Hong†, Jason J. Jung, Juhyun Shin, Pankoo Kim: Adaptive Collaborative Filtering Based on Scalable Clustering for Big Recommender Systems. Acta Polytechnica Hungarica 02/2016; 13(2). DOI:10.12700/APH.13.2.2016.2.10 († Co-first Authors)
 
+***
+
 # Conference Proceedings
+
+***
 
 * O-Joun Lee, Jin-Taek Kim: Measuring Narrative Fluency by Analyzing Dynamic Interaction Networks in Textual Narratives. The 3rd Workshop on Narrative Extraction From Texts (Text2Story 2020), co-located with the 42nd European Conference on Information Retrieval (ECIR 2020), Lisbon, Portugal; 04/2020
 
