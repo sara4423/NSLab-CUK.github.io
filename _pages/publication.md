@@ -40,3 +40,25 @@ image:
 * O-Joun Lee, Jai E. Jung: Sequence Clustering-based Automated Rule Generation for Adaptive Complex Event Processing. Future Generation Computer Systems 01/2017; 66:100–109., DOI:10.1016/j.future.2016.02.011
 
 * O-joun Lee†, Min-sung Hong†, Jason J. Jung, Juhyun Shin, Pankoo Kim: Adaptive Collaborative Filtering Based on Scalable Clustering for Big Recommender Systems. Acta Polytechnica Hungarica 02/2016; 13(2). DOI:10.12700/APH.13.2.2016.2.10 († Co-first Authors)
+
+# Conference Proceedings
+
+* O-Joun Lee, Jin-Taek Kim: Measuring Narrative Fluency by Analyzing Dynamic Interaction Networks in Textual Narratives. The 3rd Workshop on Narrative Extraction From Texts (Text2Story 2020), co-located with the 42nd European Conference on Information Retrieval (ECIR 2020), Lisbon, Portugal; 04/2020
+
+* O-Joun Lee, Jason J. Jung: Computational Narrative Representation and Analytics. The 2nd International Conference on AI Humanities (ICAIH 2019), Seoul, Republic of Korea; 08/2019
+
+* Luong Vuong Nguyen, O-Joun Lee, Hoang Long Nguyen, Sojung An, Jason J. Jung, Yue-Shan Chang: Crowdsourcing System for Measuring Cognitive Similarity in Recommendation System. The 2019 ISSAT International Conference on Data Science in Business, Finance and Industry, Da Nang, Vietnam; 07/2019
+
+* O-Joun Lee, Jason J. Jung: Character Network Embedding-based Plot Structure Discovery in Narrative Multimedia. The 9th International Conference on Web Intelligence, Mining and Semantics (WIMS 2019), Seoul, Korea; 06/2019, DOI:10.1145/3326467.3326485
+
+* O-Joun Lee, Nayoung Jo, Jason J. Jung: Measuring Character-based Story Similarity by Analyzing Movie Scripts. The 1st Workshop on Narrative Extraction From Text (Text2Story 2018), co-located with the 40th European Conference on Information Retrieval (ECIR 2018), Grenoble, France; 03/2018
+
+* O-Joun Lee, Jason J. Jung: Explainable Movie Recommendation Systems by using Story-based Similarity. The workshop on Explainable Smart Systems (ExSS 2018), held in conjunction with the 23rd International Conference on Intelligent User Interfaces (IUI 2018), Tokyo, Japan; 03/2018
+
+* Jason J. Jung, Minsung Hong, O-Joun Lee, Jaehong Park, Chang Choi: Towards Affective Lifelogging with Information Fusion. The 13th International Conference on Intelligent Environments (IE 2017), Seoul, Korea; 08/2017, DOI:10.1109/IE.2017.25
+
+* O-Joun Lee, Jason J. Jung: Affective Character Network for Understanding Plots of Narrative Contents. The 1st International Workshop on Affective Computing and Context Awareness in Ambient Intelligence (AfCAI 2016), Murcia, Spain; 11/2016
+
+* O-Joun Lee, Jason J. Jung, Eunsoon You: Predictive Clustering for Performance Stability in Collaborative Filtering Techniques. The 2nd IEEE International Conference on Cybernetics (CYBCONF 2015), Gdynia, Poland; 06/2015, DOI:10.1109/CYBConf.2015.7175905
+
+* Min-Sung Hong, O-Joun Lee, Jason J. Jung: Adaptive Clustering for Scalable Collaborative Filtering in Recommender Systems. The 3rd International Conference on Smart Media and Applications, Chiang Mai, Thailand; 12/2014, DOI:10.13140/2.1.1441.0566
