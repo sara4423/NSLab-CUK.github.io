@@ -43,6 +43,8 @@ image:
 
 * O-joun Lee†, Min-sung Hong†, Jason J. Jung, Juhyun Shin, Pankoo Kim: Adaptive Collaborative Filtering Based on Scalable Clustering for Big Recommender Systems. Acta Polytechnica Hungarica 02/2016; 13(2). DOI:10.12700/APH.13.2.2016.2.10 († Co-first Authors)
 
+
+
 ***
 
 # Conference Proceedings
@@ -68,3 +70,4 @@ image:
 * O-Joun Lee, Jason J. Jung, Eunsoon You: Predictive Clustering for Performance Stability in Collaborative Filtering Techniques. The 2nd IEEE International Conference on Cybernetics (CYBCONF 2015), Gdynia, Poland; 06/2015, DOI:10.1109/CYBConf.2015.7175905
 
 * Min-Sung Hong, O-Joun Lee, Jason J. Jung: Adaptive Clustering for Scalable Collaborative Filtering in Recommender Systems. The 3rd International Conference on Smart Media and Applications, Chiang Mai, Thailand; 12/2014, DOI:10.13140/2.1.1441.0566
+
