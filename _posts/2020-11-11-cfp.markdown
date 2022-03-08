@@ -38,16 +38,11 @@ Smart Infrastructures comprise several operators from different domains such as 
 Recently, the emerging technologies on Internet of Things (IoT), cloud/edge computing and data analytics have provided the capability of exploiting the massive amount of data from the physical world. Therefore, the trend of “IoT meetings AI” has become an emergent research topic for future smart cities and infrastructures.
 
 This track encourages authors, from academia and industry, to submit new research results about technological innovations and novel applications based on AI-powered IoT for smart cities and infrastructure. The scope of this track includes, but is not limited to the following topics:
-
-Smart sensors for homes, buildings, and infrastructures
-
-Smart energy metering and power grids
-
-AI-enabled smart transportation
-
-Air quality monitoring systems
-
-Smart building maintenance management systems
+*	Smart sensors for homes, buildings, and infrastructures
+*	Smart energy metering and power grids
+*	AI-enabled smart transportation
+*	Air quality monitoring systems
+*	Smart building maintenance management systems
 
 
 
@@ -60,19 +55,12 @@ The fast-growing data volume has enabled new artificial intelligence (AI) advanc
 In this smart healthcare track, we would like to explore the potential applications of novel AI technologies (big-data analytics, management of chorionic diseases, medical devices, medical imaging, and integration of AI and internet of things) to enhance the traditional healthcare strategies for supporting the development of the emerging platform and new healthcare medical device for innovating the healthcare ecosystem.
 
 Practical as well as theoretical contributions ranging from the fields of diagnostic imaging interpretation, robot-assisted surgery system, cybersecurity, fraud detection, health monitoring, drug creation technology among others, are invited to this special track.
-
-Potential issues include, but are not limited to:
-
-New healthcare devices for the development and commercialization
-
-Emerging platform in the healthcare industry
-
-New methods and strategies for healthcare companies
-
-Technological trends for disruptive innovation in healthcare
-
-Product healthcare innovation based on new digital technologies
-
+*	Potential issues include, but are not limited to:
+*	New healthcare devices for the development and commercialization
+*	Emerging platform in the healthcare industry
+*	New methods and strategies for healthcare companies
+*	Technological trends for disruptive innovation in healthcare
+*	Product healthcare innovation based on new digital technologies
 Multi- and inter-disciplinary research is very welcome, but all the submitted papers should fall within this smart healthcare scope and should be focused on technology and innovation of healthcare. All submitted papers will be peer-reviewed.
 
 
@@ -84,20 +72,13 @@ Multi- and inter-disciplinary research is very welcome, but all the submitted pa
 The number of Internet-of-thing (IoT) devices, such as vehicles, unmanned aerial vehicles (UAVs), and sensors, have been increasing rapidly. Therefore, there is a requirement for huge energy consumption for the massive IoT networks. In addition, the beyond fifth generation and sixth generation (B5G/6G) networks will be expected to handle thousands of times of data more than current networks. This leads to a big challenge of security in data transfers.
 
 Many recent emerging technologies have been proposed to reduce the waste of energy as well as to enhance the security for data transmissions such as energy harvesting (EH), simultaneous wireless information and power transfer (SWIPT), cybersecurity, and physical-layer security (PLS). However, the low-complexity methods are still required to adapt to the increasing demands of computational capability. Therefore, this track encourages authors to submit new research results about innovative algorithms for IoT networks. The scope of this track includes, but is not limited to the following topics:
-
-EH/SWIPT for IoT network
-
-Non-orthogonal multiple access for massive IoT devices
-
-Power consumption minimization based on optimization and machine learning
-
-Resource allocation for secrecy spectral and energy efficiencies maximization
-
-Wireless communications and security for cyber-physical networks
-
-PLS in wireless communications
-
-Secrecy energy efficiency (SEE) performance analysis for communication systems
+*	EH/SWIPT for IoT network
+*	Non-orthogonal multiple access for massive IoT devices
+*	Power consumption minimization based on optimization and machine learning
+*	Resource allocation for secrecy spectral and energy efficiencies maximization
+*	Wireless communications and security for cyber-physical networks
+*	PLS in wireless communications
+*	Secrecy energy efficiency (SEE) performance analysis for communication systems
 
 
 
@@ -108,26 +89,16 @@ Secrecy energy efficiency (SEE) performance analysis for communication systems
 Recommendation and retrieval services are necessary for human beings in modern societies. We collect, consume, analyze, and distribute various types of content (e.g., webpages, multimedia, academic publications, etc.) through the web. And, these services are our navigators while we wander in the fog, which is a flooding amount of web content. The rapid development of artificial intelligence methodologies and the diffusion of Internet-of-Things (IoT) techniques have made the recommendation and retrieval services more sophisticated and accurate. For example, by embracing graph embedding techniques, we can extract and represent characteristics of users, items, or webpages more accurately than mere matrix decomposition methods. Also, knowledge graph embedding techniques have realized semantic search. Combinations of these advances with IoT enable us to obtain accurate and in-depth contextual information. 
 
 Despite the improvement in accuracy, methodologies for persuasively providing results of these services to users have not been significantly improved. The existing studies in explainable recommendation and retrieval services utilize only metadata of the web (or metadata represented as knowledge graphs) content and user history. For example, in recommender systems, their explanations have been still limited to “you (or users similar to you) have consumed this kind of items.” These explanations based on data underpinning the results are difficult to make users expect or imagine substances of the web content. Therefore, we need methods for generating explanations that are not fully dependent on mechanisms of the recommendation and retrieval methodologies. To gather the novels approaches and ideas for the explainable recommendation and retrieval systems, this track collects studies for the following topics, but not limited to: 
-
-Natural language generation for explainable recommendation and retrieval
-
-Visual analytics for explainable recommendation and retrieval
-
-Knowledge graph generation/inference for explainable recommendation and retrieval
-
-Explainable recommendation and retrieval based on contextual information
-
-Evaluation procedures, assessment metrics, and benchmark datasets for explainable recommendation and retrieval
-
-Extracting and modeling user contexts
-
-Multi-criteria recommendation and retrieval
-
-Contextual recommendation and retrieval
-
-Multimedia content analysis
-
-User behavior analysis
+*	Natural language generation for explainable recommendation and retrieval
+*	Visual analytics for explainable recommendation and retrieval
+*	Knowledge graph generation/inference for explainable recommendation and retrieval
+*	Explainable recommendation and retrieval based on contextual information
+*	Evaluation procedures, assessment metrics, and benchmark datasets for explainable recommendation and retrieval
+*	Extracting and modeling user contexts
+*	Multi-criteria recommendation and retrieval
+*	Contextual recommendation and retrieval
+*	Multimedia content analysis
+*	User behavior analysis
 
 
 
@@ -140,20 +111,14 @@ The rapid development of artificial intelligence and data mining has given birth
 These systems' primary purposes have been improving companies' performances in various aspects, such as marketing, human resource management, and production. Artificial intelligence development can expand the purposes to more qualitative factors: customer satisfaction, company identity, social responsibility, and sustainable growth. This point is critical for modern business environments that focus on future values and ESG (environmental, social, and governance) rather than short-term profits.
 
 Therefore, business intelligence and its applications have attracted the interest of both practitioners and researchers. To gather perspectives of both sides, this track focuses on computing techniques on all business intelligence processes from data acquisition to interpretation. This track will contribute to (i) developing a research community of this field, (ii) discussing the cutting-edge issues and future directions in business intelligence, and (iii) bringing collaboration opportunities among researchers and practitioners.
+*	Relevant topics include, but are not limited to:
+*	Business data preprocessing
+*	Modeling and algorithms for business
+*	Machine learning and applications for business
+*	Optimization and intelligent computation for business
+*	Fuzzy logic and applications for business
+*	Statistics for Business
 
-Relevant topics include, but are not limited to:
-
-Business data preprocessing
-
-Modeling and algorithms for business
-
-Machine learning and applications for business
-
-Optimization and intelligent computation for business
-
-Fuzzy logic and applications for business
-
-Statistics for Business
 
 Submissions
 ------------
@@ -196,10 +161,10 @@ TBA
 Important Dates/Tentative Schedule
 ------------
 
-* Submission deadline: Jan. 10th, 2020
-* Acceptance Notification: Jan. 31st, 2020
-* Final manuscript due: Feb. 8th, 2020
-* Workshop: Feb. 15th, 2020
+* Submission deadline: July 2nd, 2021 
+* Acceptance Notification: August 15th, 2021 
+* Final manuscript due: September 17th, 2021
+* Conference: October 28th - 29th, 2021
 
 
 
