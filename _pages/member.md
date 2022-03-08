@@ -20,6 +20,8 @@ image:
 
 ***
 
+###### Sang Nguyen Thanh
+* <small>Sep 2022 (Expected) ~ Present : Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</small>
 
 ***
 # Undergraduate Students
@@ -27,13 +29,13 @@ image:
 ***
 
 ###### Jiyoon Song
-* <small>2021 ~ Present : Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</small>
+* <small>Nov 2021 ~ Present : Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</small>
 
 ###### Jooho Lee
 * <small>Oct 2020 ~ Present : School of Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea</small>
 
 ###### Hyebin Ahn
-* <small>2021 ~ Present : Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</small>
+* <small>Nov 2021 ~ Present : Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</small>
 
 ###### Se Eun Cho
 * <small>2021 ~ Present : Dept. of Economics, The Catholic University of Korea, Bucheon, Korea</small>
