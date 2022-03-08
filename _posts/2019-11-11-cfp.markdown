@@ -5,7 +5,7 @@ date:   2019-11-11 09:26:28 -0400
 image:  
 tags:   CFP
 ---
-# Call for Papers of the 1st International Workshop on Computational Humanities and Social Sciences (Computing4Human 2020)
+# Call for Papers of Computing4Human 2020
 ***
 
 Aims and Scope
