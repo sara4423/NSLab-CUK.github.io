@@ -29,9 +29,9 @@ This track aims to discuss novel research directions and contributions belonging
 
 
 
-Smart Infrastructure Track
+### Smart Infrastructure Track
 
-Track Chairs:  Hongsuk Yi, KISTI, Korea and  Khac-Hoai Nam Bui, KISTI, Korea
+#### Track Chairs:  Hongsuk Yi, KISTI, Korea and  Khac-Hoai Nam Bui, KISTI, Korea
 
 Smart Infrastructures comprise several operators from different domains such as energy, public transport, and public safety. Specifically, cyber-physical systems are developed and operated based on data-driven methods interacting with the physical world. 
 
@@ -51,9 +51,9 @@ Smart building maintenance management systems
 
 
 
-Smart Healthcare Track
+### Smart Healthcare Track
 
-Track Chair: Hae Gyun Lim, Pukyong National University, Korea
+#### Track Chair: Hae Gyun Lim, Pukyong National University, Korea
 
 The fast-growing data volume has enabled new artificial intelligence (AI) advances in hardware and software which allowed engineers and scientists to interpret physiological data from sensors. In addition, the internet technologies combining distributed healthcare computing settings have further increased the performance of the system. Particularly, medical devices sector, part of the $3 trillion healthcare industry in the United States, is an area of innovation where researchers and manufacturers are seeking to integrate accuracy with automation especially in the digital health monitoring segment. Those data-driven applications are looking for more efficient methods of optimizations in both executions and outputs sides.
 
@@ -77,9 +77,9 @@ Multi- and inter-disciplinary research is very welcome, but all the submitted pa
 
 
 
-Secure and Green IoT Communications Track 
+### Secure and Green IoT Communications Track 
 
-Track Chairs: Tri M. Ngo, Mai T. P. Le, Tuan D. Dao, and Hieu V. Nguyen, ETE, UST-UD, Vietnam
+#### Track Chairs: Tri M. Ngo, Mai T. P. Le, Tuan D. Dao, and Hieu V. Nguyen, ETE, UST-UD, Vietnam
 
 The number of Internet-of-thing (IoT) devices, such as vehicles, unmanned aerial vehicles (UAVs), and sensors, have been increasing rapidly. Therefore, there is a requirement for huge energy consumption for the massive IoT networks. In addition, the beyond fifth generation and sixth generation (B5G/6G) networks will be expected to handle thousands of times of data more than current networks. This leads to a big challenge of security in data transfers.
 
@@ -101,9 +101,9 @@ Secrecy energy efficiency (SEE) performance analysis for communication systems
 
 
 
- Explainable Recommendation and Retrieval Track
+### Explainable Recommendation and Retrieval Track
 
-Track Chairs: Nam D. Vo,  University of Danang, Vietnam and O-Joun Lee, POSTECH, Korea
+#### Track Chairs: Nam D. Vo,  University of Danang, Vietnam and O-Joun Lee, POSTECH, Korea
 
 Recommendation and retrieval services are necessary for human beings in modern societies. We collect, consume, analyze, and distribute various types of content (e.g., webpages, multimedia, academic publications, etc.) through the web. And, these services are our navigators while we wander in the fog, which is a flooding amount of web content. The rapid development of artificial intelligence methodologies and the diffusion of Internet-of-Things (IoT) techniques have made the recommendation and retrieval services more sophisticated and accurate. For example, by embracing graph embedding techniques, we can extract and represent characteristics of users, items, or webpages more accurately than mere matrix decomposition methods. Also, knowledge graph embedding techniques have realized semantic search. Combinations of these advances with IoT enable us to obtain accurate and in-depth contextual information. 
 
@@ -131,9 +131,9 @@ User behavior analysis
 
 
 
-Business Intelligence Track
+### Business Intelligence Track
 
-Track Chairs: Duc-Quynh Tran and Phuong-Mai Nguyen, International School, Vietnam National University Hanoi,Vietnam 
+#### Track Chairs: Duc-Quynh Tran and Phuong-Mai Nguyen, International School, Vietnam National University Hanoi,Vietnam 
 
 The rapid development of artificial intelligence and data mining has given birth to various business intelligence applications during recent decades. Since business intelligence systems cover all the processes from data acquisition via analysis to interpretation, we need various techniques specialized to diverse business domains, such as data modeling, data representation, preprocessing, knowledge bases, statistical models, and even human-computer interaction. Efficient combinations of these techniques finally support users in understanding market trends agilely, being aware of issues/events in their businesses, managing supply chains, and making strategic decisions. For example, we can extract current user preferences from social media and predict future trends of the preferences by analyzing past preferences' history. We can also find weak ties in supply chains by employing network analysis techniques.
 
@@ -162,8 +162,9 @@ We invite the following two kinds of papers:
 *	Research papers (Maximum 7 pages excluding references)
 *	Position papers and demos (Maximum 5 pages excluding references)
 
-All manuscripts have to be formatted according to the [LNCS (Lecture Notes in Computer Science) template](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Also, manuscripts must be submitted in PDF files though the following e-mail address. 
-*	ojlee112358@postech.ac.kr
+All manuscripts have to be formatted according to the LNCS (Lecture Notes in Computer Science) template.
+All the manuscripts must be submitted in PDF files through the EasyChair system.
+Also, authors have to annotate tracks that they aim at on the keyword list in the EasyChair system (not on keywords in manuscripts), e.g., '[Smart Healthcare]' and so on.
 
 Organizing Committee
 ------------
