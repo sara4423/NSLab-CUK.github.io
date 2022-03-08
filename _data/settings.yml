@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-title: NSLab-CUK
+title: NS Lab@CUK
 logo: # You can add own logo.
 description: Network Science Lab
 
@@ -8,19 +8,19 @@ description: Network Science Lab
 #-------------------------------
 # Author Settings
 author:
-  name: NSLab-CUK
+  name: NS Lab@CUK
   image: School_Image.jpg
-  say-hello: <strong>NSLab-CUK</strong>
+  say-hello: <strong>NS Lab@CUK</strong>
   bio: University:<a href="https://www.catholic.ac.kr"> https://www.catholic.ac.kr</a>
 
 
 #-------------------------------
 # Contact links
-twitter: https://twitter.com/ # Add your Twitter handle
-facebook: https://facebook.com/ # Add your Facebook handle
-dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/ # Add your Instagram handle
-pinterest: https://pinterest.com/ # Add your Pinterest handle
+#twitter: https://twitter.com/ # Add your Twitter handle
+#facebook: https://facebook.com/ # Add your Facebook handle
+#dribbble: https://dribbble.com/ # Add your Dribbble handle
+#instagram: https://instagram.com/ # Add your Instagram handle
+#pinterest: https://pinterest.com/ # Add your Pinterest handle
 
 
 #-------------------------------
