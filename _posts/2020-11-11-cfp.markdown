@@ -131,32 +131,6 @@ All manuscripts have to be formatted according to the LNCS (Lecture Notes in Com
 All the manuscripts must be submitted in PDF files through the EasyChair system.
 Also, authors have to annotate tracks that they aim at on the keyword list in the EasyChair system (not on keywords in manuscripts), e.g., '[Smart Healthcare]' and so on.
 
-Organizing Committee
-------------
-
-### General Co-Chairs
-
-* Prof. Jin-Taek Kim, Pohang University of Science and Technology, Rep. of Korea
-* Prof. Jason J. Jung, Chung-Ang University, Rep. of Korea
-
-### Program Committee Chair
-
-* Dr. Eunsoon You, Inha University, Rep. of Korea
-
-### Local Chairs
-
-* Dr. O-Joun Lee, Pohang University of Science and Technology, Rep. of Korea
-* Mr. Hanseong Kim, Pohang University of Science and Technology, Rep. of Korea
-
-### Website Chair
-
-* Ms. Hyeon-Ju Jeon, Chung-Ang University, Rep. of Korea
-
-Program Committee
-------------
-
-TBA
-
 
 Important Dates/Tentative Schedule
 ------------
