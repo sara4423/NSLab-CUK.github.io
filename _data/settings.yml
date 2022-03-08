@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: NS Lab@CUK
-logo: # You can add own logo.
+logo: logo.svg # You can add own logo.
 description: Network Science Lab
 
 
