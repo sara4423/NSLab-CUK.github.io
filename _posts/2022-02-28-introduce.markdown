@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  Introduce 
+title:  Introduction to Network Science Lab 
 date:   2022-02-27 15:01:35 +0300
 image:  Network_Image2.png
 tags:   
 ---
-# Introduce
+# Introduction to Network Science Lab 
 ***
 
 Network Science Lab에서는 Network Embedding, GCN(Graph Convolution Network) 등과 관련된 인공지능 모델을 연구하며,
