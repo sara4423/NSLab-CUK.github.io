@@ -7,14 +7,18 @@ image:
 
 
 ***
-# Professor
+# Director
 
 ***
 
-#### O-Joun Lee
-* <small>Sep 2019 ~ Aug 2021: Full-time Researcher, Future IT Innovation Laboratory, Pohang University of Science and Technology (POSTECH), Pohang, Gyeongsangbuk-do, South Korea</small>
-* <small>Sep 2021 ~ Present: Professor of the Catholic University of Korea</small>
+#### Prof. O-Joun Lee
+* <small>Sep 2021 ~ Present: Assistant Professor, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</small>
+* <small>Sep 2019 ~ Aug 2021: Full-time Researcher, Future IT Innovation Laboratory, Pohang University of Science and Technology (POSTECH), Pohang, Korea</small>
 
+***
+# Graduate Students
+
+***
 
 
 ***
@@ -22,16 +26,16 @@ image:
 
 ***
 
-###### 송지윤
-* <small>2021 ~ Present : Student of the Catholic University of Korea</small>
+###### Jiyoon Song
+* <small>2021 ~ Present : Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</small>
 
-###### 이주호
-* <small>2020 ~ Present : Student of the Catholic University of Korea</small>
+###### Jooho Lee
+* <small>Oct 2020 ~ Present : School of Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea</small>
 
-###### 안혜빈
-* <small>2021 ~ Present : Student of the Catholic University of Korea</small>
+###### Hyebin Ahn
+* <small>2021 ~ Present : Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</small>
 
-###### 조세은
-* <small>2021 ~ Present : Student of the Catholic University of Korea</small>
+###### Se Eun Cho
+* <small>2021 ~ Present : Dept. of Economics, The Catholic University of Korea, Bucheon, Korea</small>
 
 
