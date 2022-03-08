@@ -11,7 +11,7 @@ author:
   name: NS Lab@CUK
   image: School_Image.jpg
   say-hello: <strong>NS Lab@CUK</strong>
-  bio: University:<a href="https://www.catholic.ac.kr"> https://www.catholic.ac.kr</a>
+  #bio: University:<a href="https://www.catholic.ac.kr"> https://www.catholic.ac.kr</a>
 
 
 #-------------------------------
