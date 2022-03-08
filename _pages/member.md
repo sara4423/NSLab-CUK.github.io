@@ -29,15 +29,15 @@ image:
 ***
 
 ###### Jiyoon Song
-* <small>Nov 2021 ~ Present : Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</small>
+* <small>Dec 2021 ~ Present : Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</small>
 
 ###### Jooho Lee
-* <small>Oct 2020 ~ Present : School of Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea</small>
+* <small>Nov 2020 ~ Present : School of Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea</small>
 
 ###### Hyebin Ahn
-* <small>Nov 2021 ~ Present : Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</small>
+* <small>Dec 2021 ~ Present : Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</small>
 
 ###### Se Eun Cho
-* <small>2021 ~ Present : Dept. of Economics, The Catholic University of Korea, Bucheon, Korea</small>
+* <small>Jan 2022 ~ Present : Dept. of Economics, The Catholic University of Korea, Bucheon, Korea</small>
 
 
