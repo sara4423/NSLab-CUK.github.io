@@ -6,6 +6,13 @@ image:
 ---
 
 ***
+# Dynamic Heterogeneous Network Embedding for Rumor Propagation Detection
+
+***
+
+*
+
+***
 # Context-aware Recommender System for Retail Kiosk
 
 ***
