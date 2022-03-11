@@ -63,6 +63,12 @@ image:
 
 ***
 
+* Nam D Vo, O-Joun Lee, Khac-Hoai Nam Bui, Hae Gyun Lim, Hyeon-Ju Jeon, Phuong-Mai Nguyen, Jin-Taek Kim, Bui Quang Tuyen, Jason J Jung, Thuy Anh Vo: Computing4Human 2021: The 2nd International Conference on Human-centered Artificial Intelligence. The 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021), Da Nang, Vietnam; 10/2021 (Editorial)
+
+* Hyeon-Ju Jeon, Gyu-Sik Choi, Se-Young Cho, Hanbin Lee, Hee Yeon Ko, Jason J Jung, O-Joun Lee, Myeong-Yeon Yi: Learning Contextual Representations of Citations via Graph Transformer. The 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021), Da Nang, Vietnam; 10/2021
+
+* O-Joun Lee, Jin-Taek Kim, Eun-Soon You: Quantifying Conflicts in Narrative Multimedia by Analyzing Visual Storytelling Techniques. The 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021), Da Nang, Vietnam; 10/2021
+
 * O-Joun Lee, Jason J Jung: Story Embedding: Learning Distributed Representations of Stories based on Character Networks (Extended Abstract). The 29th International Joint Conference on Artificial Intelligence (IJCAI 2020) and the 17th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2020), Yokohama, Japan; 01/2021
 
 * O-Joun Lee, Sung Youn Park, Jin-Taek Kim: IdeaNet: Potential Opportunity Discovery for Business Innovation. Artificial Intelligence for Narratives Workshop (AI4Narratives 2020) held in conjunction with the 29th International Joint Conference on Artificial Intelligence (IJCAI 2020) and the 17th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2020), Yokohama, Japan; 01/2021
