@@ -43,4 +43,10 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 ###### Se Eun Cho
 * <small>Jan 2022 ~ Present : Dept. of Economics, The Catholic University of Korea, Bucheon, Korea</small>
 
+***
+# Collaborators
+
+***
+
+* <small> Hyeon Ju Jeon, Korea Institute of Atmospheric Prediction System (KIAPS), Seoul, Korea </small>
 
