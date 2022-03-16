@@ -15,8 +15,8 @@ image:
 
 O-Joun Lee has been an assistant professor at the Catholic University of Korea, Rep. of Korea, since September 2021. He received his Ph.D. degree in Computer Science and Engineering from Chung-Ang University in 2019. He also received B.Eng. degree in Software Science from Dankook University in 2015. Also, he was a full-time researcher at Pohang University of Science and Technology, Rep. of Korea, from September 2019 to August 2021. His research topics are networked data analysis based on unsupervised/self-supervised representation learning and graph convolutional networks. He has applied the networked data analysis models and methods to various unstructured data, such as social media, bibliographic data, medical knowledge base, traffic flow data, etc.
 
-* <small>Sep 2021 ~ Present: Assistant Professor, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</small>
-* <small>Sep 2019 ~ Aug 2021: Full-time Researcher, Future IT Innovation Laboratory, Pohang University of Science and Technology (POSTECH), Pohang, Korea</small>
+* Sep 2021 ~ Present: Assistant Professor, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
+* Sep 2019 ~ Aug 2021: Full-time Researcher, Future IT Innovation Laboratory, Pohang University of Science and Technology (POSTECH), Pohang, Korea
 
 ***
 # Graduate Students
@@ -24,7 +24,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 ***
 
 ###### Sang Nguyen Thanh
-* <small>Sep 2022 (Expected) ~ Present : MS/Ph.D. Combined Course, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</small>
+* Sep 2022 (Expected) ~ Present : MS/Ph.D. Combined Course, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
 
 ***
 # Undergraduate Students
@@ -32,21 +32,21 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 ***
 
 ###### Jiyoon Song
-* <small>Dec 2021 ~ Present : Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</small>
+* Dec 2021 ~ Present : Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
 
 ###### Jooho Lee
-* <small>Nov 2020 ~ Present : School of Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea</small>
+* Nov 2020 ~ Present : School of Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea
 
 ###### Hyebin Ahn
-* <small>Dec 2021 ~ Present : Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</small>
+* Dec 2021 ~ Present : Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
 
 ###### Se Eun Cho
-* <small>Jan 2022 ~ Present : Dept. of Economics, The Catholic University of Korea, Bucheon, Korea</small>
+* Jan 2022 ~ Present : Dept. of Economics, The Catholic University of Korea, Bucheon, Korea
 
 ***
 # Collaborators
 
 ***
 
-* <small> Hyeon-Ju Jeon, Korea Institute of Atmospheric Prediction System (KIAPS), Seoul, Korea </small>
+* Hyeon-Ju Jeon, Korea Institute of Atmospheric Prediction System (KIAPS), Seoul, Korea 
 
