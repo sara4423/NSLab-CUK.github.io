@@ -50,3 +50,8 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 
 * Hyeon-Ju Jeon, Korea Institute of Atmospheric Prediction System (KIAPS), Seoul, Korea 
 
+***
+# Alumni
+
+***
+
