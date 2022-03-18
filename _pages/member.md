@@ -23,6 +23,9 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 
 ***
 
+###### Thuy Hoang Van
+* Sep 2022 (Expected) ~ Present : Ph.D. Course, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
+
 ###### Sang Nguyen Thanh
 * Sep 2022 (Expected) ~ Present : MS/Ph.D. Combined Course, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
 
