@@ -27,6 +27,13 @@ image:
 * TBA
 
 ***
+# Solar Irradiance Forecasting using Spatio-Temporal Graph Convolutional Networks
+
+***
+
+* TBA
+
+***
 # Single-cell Analysis using the Integration of High-Frequency Single-Beam Acoustic Tweezers and Deep Neural Networks
 
 ***
