@@ -38,7 +38,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 * Dec 2021 ~ Present : Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
 
 ###### Jooho Lee
-* Nov 2020 ~ Present : School of Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea
+* Nov 2021 ~ Present : School of Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea
 
 ###### Hyebin Ahn
 * Dec 2021 ~ Present : Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
