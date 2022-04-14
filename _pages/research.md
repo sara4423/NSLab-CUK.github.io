@@ -38,7 +38,7 @@ image:
 
 ***
 
-<img src="./images/Fig4.JPG">
+<img src="/images/Fig4.JPG">
 
 * Hae Gyun Lim†, O-Joun Lee†, K. Kirk Shung, Jin-Taek Kim, Hyung Ham Kim: Classification of Breast Cancer Cells Using the Integration of High-Frequency Single-Beam Acoustic Tweezers and Convolutional Neural Networks. Cancers 05/2020; 12(5):1212., DOI:10.3390/cancers12051212 (†: Co-first authors)
 
