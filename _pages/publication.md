@@ -11,6 +11,8 @@ image:
 
 ***
 
+* O-Joun Lee, Hae Gyun Lim, K. Kirk Shung, Jin-Taek Kim, Hyung Ham Kim: Automated Estimation of Cancer Cell Deformability with Machine Learning and Acoustic Trapping. Scientific Report (To Appear)
+
 * O-Joun Lee, Seungha Hong, Jin-Taek Kim: Interinstitutional Research Team Formation Based on Bibliographic Network Embedding. Mobile Information Systems 02/2021; 2021: 6629520. DOI:10.1155/2021/6629520
 
 * O-Joun Lee, Eun-Soon You, Jin-Taek Kim: Plot Structure Decomposition in Narrative Multimedia by Analyzing Personalities of Fictional Characters. Applied Sciences 02/2021; 11(4): 1645. DOI:10.3390/app11041645
@@ -21,7 +23,7 @@ image:
 
 * Eun-Soon You, O-Joun Lee, Jin-Taek Kim: Computational Narrative Generation: A Survey. Journal of Information Technology and Applied Engineering 06/2020; 10(1): 9-18. (In Korean), DOI:10.22733/JITAE.2020.10.01.002
 
-* Hae Gyun Lim*, O-Joun Lee*, K. Kirk Shung, Jin-Taek Kim, Hyung Ham Kim: Classification of Breast Cancer Cells Using the Integration of High-Frequency Single-Beam Acoustic Tweezers and Convolutional Neural Networks. Cancers 05/2020; 12(5):1212., DOI:10.3390/cancers12051212 (*: Co-first authors)
+* Hae Gyun Lim†, O-Joun Lee†, K. Kirk Shung, Jin-Taek Kim, Hyung Ham Kim: Classification of Breast Cancer Cells Using the Integration of High-Frequency Single-Beam Acoustic Tweezers and Convolutional Neural Networks. Cancers 05/2020; 12(5):1212., DOI:10.3390/cancers12051212 (†: Co-first authors)
 
 * O-Joun Lee, Jason J. Jung, Jin-Taek Kim: Learning Hierarchical Representations of Stories by Using Multi-layered Structures in Narrative Multimedia. Sensors 04/2020; 20(7):1978., DOI:10.3390/s20071978
 
@@ -45,7 +47,7 @@ image:
 
 * Quang Dieu Tran, Dosam Hwang, O-Joun Lee, Jai E. Jung: Exploiting Character Networks for Movie Summarization. Multimedia Tools and Applications 04/2017; 76(8):10357–10369., DOI:10.1007/s11042-016-3633-6
 
-* Jai E. Jung, O-Joun Lee*, Eun-Soon You, Myoung-Hee Nam: A Computational Model of Transmedia Ecosystem for Story-based Contents. Multimedia Tools and Applications 04/2017; 16(8):10371–10388., DOI:10.1007/s11042-016-3626-5 (*: Corresponding author)
+* Jai E. Jung, O-Joun Lee†, Eun-Soon You, Myoung-Hee Nam: A Computational Model of Transmedia Ecosystem for Story-based Contents. Multimedia Tools and Applications 04/2017; 16(8):10371–10388., DOI:10.1007/s11042-016-3626-5 (†: Corresponding author)
 
 * Hoang Long Nguyen, O-Joun Lee, Jai E. Jung, Jaehwa Park, Tai-Won Um, Hyun-Woo Lee: Event-Driven Trust Refreshment on Ambient Services. IEEE Access 03/2017; 5:4664 - 4670., DOI:10.1109/ACCESS.2017.2677917
 
