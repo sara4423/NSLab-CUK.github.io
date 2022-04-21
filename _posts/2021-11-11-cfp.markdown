@@ -2,7 +2,7 @@
 layout: post
 title:  Call for Papers of Computing4Human 2022
 date:   2021-11-11 09:26:28 -0400
-image:  VNUIS.jpg
+image:  VNUIS2.jpg
 tags:   CFP
 ---
 # Call for Papers of the 3rd International Conference on Human-centered Artificial Intelligence (Computing4Human 2022)
