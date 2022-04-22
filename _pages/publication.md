@@ -156,3 +156,12 @@ image:
 * O-Joun Lee, Jae-Dong Lee, Seung-Hun Kim, Won-Jin Lee, Seung-Bo Park, Min-Sung Hong, Se-Jun Park: APPARATUS AND METHOD FOR PREDICTING USER FEED BACK IN COLLABORATIVE RECOMMENDATION SYSTEM. Ref. No: KR1020140027865, Year: 03/2014
 
 
+
+***
+
+# Invited Talks
+
+***
+
+<img src="/images/Talk-VNUIS.jpg">
+
