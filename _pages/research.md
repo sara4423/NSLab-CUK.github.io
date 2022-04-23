@@ -6,9 +6,14 @@ image:
 ---
 
 ***
-# Dynamic Heterogeneous Network Embedding for Rumor Propagation Detection
+# Dynamic Heterogeneous Network Embedding
 
 ***
+<img src="/images/embedding.png">
+
+## Bibliographic Network Analysis
+
+## Rumor Propagation Detection
 
 * TBA
 
