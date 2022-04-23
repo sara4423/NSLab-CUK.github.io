@@ -29,10 +29,9 @@ image:
 
 * TBA
 
-***
-# Context-aware Recommender System for Retail Kiosk
+## Explainable Recommendation
 
-***
+### Cross-domain Recommender System for Retail Kiosk
 
 * TBA
 
