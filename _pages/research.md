@@ -13,11 +13,15 @@ image:
   <em>Multi-Resolution Network Embedding.</em>
 </p>
 
-<img src="/images/embedding.png">
+<p>
+  <img data-action="zoom" src="/images/transformer.png" alt="absolute">
+  <em>Multi-Resolution Network Embedding.</em>
+</p>
 
-<img src="/images/transformer.png">
-
-<img src="/images/curriculum.png">
+<p>
+  <img data-action="zoom" src="/images/curriculum.png" alt="absolute">
+  <em>Multi-Resolution Network Embedding.</em>
+</p>
 
 ***
 ## Bibliographic Network Embedding
