@@ -25,7 +25,7 @@ image:
 
 ## Knowledge Graph Embedding
 
-### Medical Knowledge Graph Embedding for Animal Disease Diagnosis
+### Medical Knowledge Graph Embedding for Disease Diagnosis
 
 * TBA
 
