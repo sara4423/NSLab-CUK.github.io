@@ -10,6 +10,10 @@ image:
 
 <img src="/images/embedding.png">
 
+<img src="/images/transformer.png">
+
+<img src="/images/curriculum.png">
+
 ***
 ## Bibliographic Network Embedding
 
