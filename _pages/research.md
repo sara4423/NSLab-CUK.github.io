@@ -8,6 +8,11 @@ image:
 ***
 # Dynamic Heterogeneous Network Embedding
 
+<figure>
+  <img src="/images/embedding.png"/>
+  <figcaption>Multi-Resolution Network Embedding</figcaption>
+</figure>
+
 <img src="/images/embedding.png">
 
 <img src="/images/transformer.png">
