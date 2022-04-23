@@ -11,7 +11,7 @@ image:
 ***
 <img src="/images/embedding.png">
 
-## Bibliographic Network Analysis
+## Bibliographic Network Embedding
 
 * O-Joun Lee, Hyeon-Ju Jeon, Jason J. Jung: Learning Multi-Resolution Representations of Research Patterns in Bibliographic Networks. Journal of Informetrics 02/2021; 15(1): 101126. DOI:10.1016/j.joi.2020.101126
 
@@ -23,15 +23,14 @@ image:
 
 * TBA
 
-***
-# Context-aware Recommender System for Retail Kiosk
+## Knowledge Graph Embedding
 
-***
+### Medical Knowledge Graph Embedding for Animal Disease Diagnosis
 
 * TBA
 
 ***
-# Automated Medical Diagnosis System for Companion Animal Diseases 
+# Context-aware Recommender System for Retail Kiosk
 
 ***
 
