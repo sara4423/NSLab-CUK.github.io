@@ -8,7 +8,6 @@ image:
 ***
 # Dynamic Heterogeneous Network Embedding
 
-***
 <img src="/images/embedding.png">
 
 ***
@@ -19,13 +18,11 @@ image:
 * O-Joun Lee, Seungha Hong, Jin-Taek Kim: Interinstitutional Research Team Formation Based on Bibliographic Network Embedding. Mobile Information Systems 02/2021; 2021: 6629520. DOI:10.1155/2021/6629520
 
 * Hyeon-Ju Jeon, O-Joun Lee, Jason. J. Jung: Is Performance of Scholars Correlated to Their Research Collaboration Patterns?. Frontiers in Big Data 11/2019; 2(39)., DOI:10.3389/fdata.2019.00039
-***
 
 ***
 ## Rumor Propagation Detection
 
 * TBA
-***
 
 ***
 ## Knowledge Graph Embedding
@@ -37,7 +34,6 @@ image:
 ### Medical Knowledge Graph Embedding for Drug Effect Prediction
 
 * TBA
-***
 
 ***
 ## Explainable Recommendation
@@ -45,12 +41,9 @@ image:
 ### Cross-domain Recommender System for Retail Kiosk
 
 * TBA
-***
 
 ***
 # Graph Convolutional Networks
-
-***
 
 ***
 ## Spatio-Temporal Graph Convolutional Networks
@@ -58,12 +51,9 @@ image:
 ### Solar Irradiance Forecasting
 
 * TBA
-***
 
 ***
 # Single-cell Analysis using the Integration of High-Frequency Single-Beam Acoustic Tweezers and Deep Neural Networks
-
-***
 
 <img src="/images/Fig4.JPG">
 
