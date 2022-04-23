@@ -40,11 +40,13 @@ image:
 * TBA
 
 ***
-# Spatio-Temporal Graph Convolutional Networks
+# Graph Convolutional Networks
 
 ***
 
-## Solar Irradiance Forecasting
+## Spatio-Temporal Graph Convolutional Networks
+
+### Solar Irradiance Forecasting
 
 * TBA
 
