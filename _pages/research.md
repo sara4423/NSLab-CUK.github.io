@@ -29,6 +29,10 @@ image:
 
 * TBA
 
+### Medical Knowledge Graph Embedding for Drug Effect Prediction
+
+* TBA
+
 ## Explainable Recommendation
 
 ### Cross-domain Recommender System for Retail Kiosk
