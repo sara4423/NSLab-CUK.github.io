@@ -15,12 +15,12 @@ image:
 
 <p>
   <img data-action="zoom" src="/images/transformer.png" alt="absolute">
-  <em>Multi-Resolution Network Embedding.</em>
+  <em>Self-supervised Network Representation Learning.</em>
 </p>
 
 <p>
   <img data-action="zoom" src="/images/curriculum.png" alt="absolute">
-  <em>Multi-Resolution Network Embedding.</em>
+  <em>Curriculum.</em>
 </p>
 
 ***
