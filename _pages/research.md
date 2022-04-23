@@ -57,7 +57,10 @@ image:
 * TBA
 
 ***
-# Single-cell Analysis using the Integration of High-Frequency Single-Beam Acoustic Tweezers and Deep Neural Networks
+# Medical Image and Signal Processing
+
+***
+## Single-cell Analysis using the Integration of High-Frequency Single-Beam Acoustic Tweezers and Deep Neural Networks
 
 <img src="/images/Fig4.JPG">
 
