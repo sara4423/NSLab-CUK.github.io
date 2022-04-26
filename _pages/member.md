@@ -8,7 +8,6 @@ image:
 
 ***
 # Director
-
 ***
 
 #### Prof. O-Joun Lee
@@ -20,7 +19,6 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 
 ***
 # Graduate Students
-
 ***
 
 ###### Thuy Hoang Van
@@ -31,24 +29,29 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 
 ***
 # Undergraduate Students
-
 ***
-
-###### Jiyoon Song
-* Dec 2021 ~ Present : Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
 
 ###### Jooho Lee
 * Nov 2021 ~ Present : School of Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea
+* Research Interest: Network Representation Learning
+
+###### Jiyoon Song
+* Dec 2021 ~ Present : Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
+* Research Interest: Medical Knowledge Graph
 
 ###### Hyebin Ahn
 * Dec 2021 ~ Present : Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
+* Research Interest: Multi-modal Representation Learning
 
 ###### Se Eun Cho
 * Jan 2022 ~ Present : Dept. of Economics, The Catholic University of Korea, Bucheon, Korea
 
+###### Yeongmin Kim
+* Apr 2022 ~ Present : School of Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea
+* Research Interest: Multi-modal Representation Learning
+
 ***
 # Collaborators
-
 ***
 
 * Hyeon-Ju Jeon, Korea Institute of Atmospheric Prediction System (KIAPS), Seoul, Korea 
@@ -59,6 +62,8 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 
 ***
 # Alumni
-
 ***
+
+* TBA
+
 
