@@ -9,7 +9,7 @@ image:
 # Dynamic Heterogeneous Network Embedding
 
 <p>
-  <img data-action="zoom" src="/images/embedding.png" alt="absolute">
+  <img width="750" data-action="zoom" src="/images/embedding.png" alt="absolute">
   <em>Multi-Resolution Network Embedding.</em>
 </p>
 
@@ -61,7 +61,7 @@ image:
 ***
 ## Single-cell Analysis using the Integration of High-Frequency Single-Beam Acoustic Tweezers and Deep Neural Networks
 
-<img src="/images/Fig4.JPG">
+<img width="750" src="/images/Fig4.JPG">
 
 * Hae Gyun Lim†, O-Joun Lee†, K. Kirk Shung, Jin-Taek Kim, Hyung Ham Kim: Classification of Breast Cancer Cells Using the Integration of High-Frequency Single-Beam Acoustic Tweezers and Convolutional Neural Networks. Cancers 05/2020; 12(5):1212., DOI:10.3390/cancers12051212 (†: Co-first authors)
 
@@ -70,7 +70,7 @@ image:
 ***
 ## Diagnosis and Staging of Liver Fibrosis
 
-<img src="/images/liver.png">
+<img width="750" src="/images/liver.png">
 
 
 
