@@ -67,7 +67,10 @@ image:
 
 * O-Joun Lee, Hae Gyun Lim, K. Kirk Shung, Jin-Taek Kim, Hyung Ham Kim: Automated Estimation of Cancer Cell Deformability with Machine Learning and Acoustic Trapping. Scientific Report (To Appear)
 
+***
+## Diagnosis and Staging of Liver Fibrosis
 
+<img src="/images/liver.png">
 
 
 
