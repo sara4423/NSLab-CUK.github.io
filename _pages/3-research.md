@@ -9,7 +9,7 @@ image:
 # Dynamic Heterogeneous Network Embedding
 
 <p>
-  <img width="750" data-action="zoom" src="/images/embedding.png" alt="absolute">
+  <img width="600" data-action="zoom" src="/images/embedding.png" alt="absolute">
   <em>Multi-Resolution Network Embedding.</em>
 </p>
 
@@ -61,16 +61,16 @@ image:
 ***
 ## Single-cell Analysis using the Integration of High-Frequency Single-Beam Acoustic Tweezers and Deep Neural Networks
 
-<img width="750" src="/images/Fig4.JPG">
+<img width="600" src="/images/Fig4.JPG">
+
+* O-Joun Lee, Hae Gyun Lim, K. Kirk Shung, Jin-Taek Kim, Hyung Ham Kim: Automated Estimation of Cancer Cell Deformability with Machine Learning and Acoustic Trapping. Scientific Report 04/2022; 12: 6891. DOI:10.1038/s41598-022-10882-w
 
 * Hae Gyun Lim†, O-Joun Lee†, K. Kirk Shung, Jin-Taek Kim, Hyung Ham Kim: Classification of Breast Cancer Cells Using the Integration of High-Frequency Single-Beam Acoustic Tweezers and Convolutional Neural Networks. Cancers 05/2020; 12(5):1212., DOI:10.3390/cancers12051212 (†: Co-first authors)
-
-* O-Joun Lee, Hae Gyun Lim, K. Kirk Shung, Jin-Taek Kim, Hyung Ham Kim: Automated Estimation of Cancer Cell Deformability with Machine Learning and Acoustic Trapping. Scientific Report (To Appear)
 
 ***
 ## Diagnosis and Staging of Liver Fibrosis
 
-<img width="750" src="/images/liver.png">
+<img width="600" src="/images/liver.png">
 
 
 
