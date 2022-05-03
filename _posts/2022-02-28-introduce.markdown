@@ -10,9 +10,23 @@ tags:
 
 Network Science Lab at The Catholic University of Korea studies a broad range of theories and methodologies related to collecting, representing, and analyzing networked data. We deal with various artificial intelligence and machine learning models for networked data, including network embedding models and GCN(Graph Convolution Network). Recently, we have been interested in self-supervised representation learning of dynamic heterogeneous networks and attributed networks by using multi-modal transformers. Also, we have been applying these models to various applications, such as detecting rumor propagation and fake news in social media, predicting research collaborators, estimating collaboration performance, predicting effects of drugs, and so on.
 
-Our team is recruiting new members who have fashion and enthusiasm for artificial intelligence studies. If you want to join us, please do not hesitate to contact us through the following email address.
+Our team is recruiting new members who have fashion and enthusiasm for artificial intelligence studies. If you want to join us, please do not hesitate to contact us through the following contact information.
 
-ojlee@catholic.ac.kr
+***
+### Addresses
+
+* Director's office: Michael Hall T404, 43, Jibong-ro, Bucheon-si, Gyeonggi-do 14662, Republic of Korea
+* Laboratories: Sophie Barat Hall B348 & B349, 43, Jibong-ro, Bucheon-si, Gyeonggi-do 14662, Republic of Korea
+
+<div class="gmap">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d791.4723252778355!2d126.80200158589973!3d37.48693857838225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b62c22341bd79%3A0x13730f14a1fc72e!2z6rCA7Yao66at64yA7ZWZ6rWQIOyEseyLrOq1kOyglQ!5e0!3m2!1sko!2skr!4v1651584191104!5m2!1sko!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+***
+### Email Addresses
+
+* ojlee@catholic.ac.kr
+* 
 
 
 
