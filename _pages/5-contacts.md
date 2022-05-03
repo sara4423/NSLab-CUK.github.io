@@ -8,7 +8,7 @@ image:
 ***
 ### Address
 
-* Director's Office: Michael Hall T404, 43, Jibong-ro, Bucheon-si, Gyeonggi-do 14662, Republic of Korea
+* Director's office: Michael Hall T404, 43, Jibong-ro, Bucheon-si, Gyeonggi-do 14662, Republic of Korea
 * Laboratories: Sophie Barat Hall B348 & B349, 43, Jibong-ro, Bucheon-si, Gyeonggi-do 14662, Republic of Korea
 
 <div class="gmap">
