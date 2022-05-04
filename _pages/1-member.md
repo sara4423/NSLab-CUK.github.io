@@ -60,6 +60,8 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 
 * Prof. Hae Gyun Lim, Pukyong National University, Busan, Korea 
 
+* Dr. Sungyeop Jung, Advanced Institute of Convergence Technology, Suwon, Korea
+
 * Prof. Nam D. Vo, FPT University, Danang, Vietnam
 
 ***
