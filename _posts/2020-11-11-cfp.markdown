@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  Call for Papers of Computing4Human 2021
+title:  CFP of Computing4Human 2021
 date:   2020-11-11 09:26:28 -0400
 image:  danang.jpg
 tags:   CFP
 ---
-# Call for Papers of the 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021)
-***
 
+> Call for Papers of the 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021)
+
+***
 Aims and Scope
 ------------
 
@@ -119,7 +120,7 @@ Therefore, business intelligence and its applications have attracted the interes
 *	Fuzzy logic and applications for business
 *	Statistics for Business
 
-
+***
 Submissions
 ------------
 
@@ -131,7 +132,7 @@ All manuscripts have to be formatted according to the LNCS (Lecture Notes in Com
 All the manuscripts must be submitted in PDF files through the EasyChair system.
 Also, authors have to annotate tracks that they aim at on the keyword list in the EasyChair system (not on keywords in manuscripts), e.g., '[Smart Healthcare]' and so on.
 
-
+***
 Important Dates/Tentative Schedule
 ------------
 
@@ -140,8 +141,6 @@ Important Dates/Tentative Schedule
 * Final manuscript due: September 17th, 2021
 * Conference: October 28th - 29th, 2021
 
-
-
-
 ***
+
 
