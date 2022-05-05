@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  Call for Papers of Computing4Human 2020
+title:  CFP of Computing4Human 2020
 date:   2019-11-11 09:26:28 -0400
-image:  
+image:  pohang.jpg
 tags:   CFP
 ---
-# Call for Papers of the 1st International Workshop on Computational Humanities and Social Sciences (Computing4Human 2020)
-***
 
+> The 1st International Workshop on Computational Humanities and Social Sciences (Computing4Human 2020)
+
+***
 Aims and Scope
 ------------
 
@@ -17,6 +18,7 @@ However, at least, it is clear that these studies have been exploring terra inco
  
 This workshop aims to discuss novel research directions and contributions belonging to intersections between the two research communities. Thereby, we attempt to gather various opinions from different research areas, including computer science, computational linguistics, digital humanities, political science, economic, etc. At the beginning of this workshop series, we collect papers on interdisciplinary studies between computer science and humanities/social sciences, without any limitation.
 
+***
 Submissions
 ------------
 
@@ -27,6 +29,7 @@ We invite the following two kinds of papers:
 All manuscripts have to be formatted according to the [LNCS (Lecture Notes in Computer Science) template](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Also, manuscripts must be submitted in PDF files though the following e-mail address. 
 *	ojlee112358@postech.ac.kr
 
+***
 Organizing Committee
 ------------
 
@@ -53,7 +56,7 @@ Program Committee
 
 TBA
 
-
+***
 Important Dates/Tentative Schedule
 ------------
 
@@ -62,8 +65,6 @@ Important Dates/Tentative Schedule
 * Final manuscript due: Feb. 8th, 2020
 * Workshop: Feb. 15th, 2020
 
-
-
-
 ***
+
 
