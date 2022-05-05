@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  Call for Papers of Computing4Human 2022
+title:  CFP of Computing4Human 2022
 date:   2021-11-11 09:26:28 -0400
 image:  hanoi.jpg
 tags:   CFP
 ---
-# Call for Papers of the 3rd International Conference on Human-centered Artificial Intelligence (Computing4Human 2022)
+
+> Call for Papers of the 3rd International Conference on Human-centered Artificial Intelligence (Computing4Human 2022)
+
 ***
 
 Aims and Scope
@@ -27,6 +29,7 @@ We founded the following regular tracks to introduce the various domains of huma
 
 Papers related to the above-mentioned domains using cross-disciplinary and multidisciplinary approaches are encouraged and welcomed. This event has interested in every attempt to improve the life quality of human beings using AI. Therefore, we do not restrict potential submissions which do not totally fit in the regular tracks.
 
+***
 
 Submissions
 ------------
@@ -39,6 +42,7 @@ All manuscripts have to be formatted according to the LNCS (Lecture Notes in Com
 All the manuscripts must be submitted in PDF files through the EasyChair system.
 Also, authors have to annotate tracks that they aim at on the keyword list in the EasyChair system (not on keywords in manuscripts), e.g., '[Smart Healthcare]' and so on.
 
+***
 
 Important Dates/Tentative Schedule
 ------------
@@ -49,7 +53,6 @@ Important Dates/Tentative Schedule
 * Registration Deadline: 15 October, 2022
 * Conference Dates: 16 – 17 December, 2022
 
-
-
-
 ***
+
+
