@@ -9,6 +9,7 @@ tags:   CFP
 > Call for Papers of the 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021)
 
 ***
+
 Aims and Scope
 ------------
 
@@ -121,6 +122,7 @@ Therefore, business intelligence and its applications have attracted the interes
 *	Statistics for Business
 
 ***
+
 Submissions
 ------------
 
@@ -133,6 +135,7 @@ All the manuscripts must be submitted in PDF files through the EasyChair system.
 Also, authors have to annotate tracks that they aim at on the keyword list in the EasyChair system (not on keywords in manuscripts), e.g., '[Smart Healthcare]' and so on.
 
 ***
+
 Important Dates/Tentative Schedule
 ------------
 
