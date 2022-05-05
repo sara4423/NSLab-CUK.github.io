@@ -6,7 +6,7 @@ image:  pohang.jpg
 tags:   CFP
 ---
 
-> The 1st International Workshop on Computational Humanities and Social Sciences (Computing4Human 2020)
+> Call for Papers of the 1st International Workshop on Computational Humanities and Social Sciences (Computing4Human 2020)
 
 ***
 
