@@ -33,13 +33,13 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 # Undergraduate Students
 ***
 
+###### Jiyoon Song (Lab Representative)
+* Dec 2021 ~ Present : Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
+* Research Interest: Medical Knowledge Graph
+
 ###### Jooho Lee
 * Nov 2021 ~ Present : School of Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea
 * Research Interest: Network Representation Learning
-
-###### Jiyoon Song
-* Dec 2021 ~ Present : Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
-* Research Interest: Medical Knowledge Graph
 
 ###### Hyebin Ahn
 * Dec 2021 ~ Present : Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
