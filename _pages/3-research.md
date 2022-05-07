@@ -5,6 +5,9 @@ permalink: /research/
 image: Social_Network.png
 ---
 
+* TOC
+{:toc}
+
 ***
 # Dynamic Heterogeneous Network Embedding
 
