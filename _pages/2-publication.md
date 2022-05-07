@@ -2,7 +2,7 @@
 layout: page
 title: Publication
 permalink: /publication/
-image: 
+image: Bib_Network.png
 ---
 
 * TOC
