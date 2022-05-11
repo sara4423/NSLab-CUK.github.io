@@ -60,15 +60,10 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 ***
 
 * Hyeon-Ju Jeon, Korea Institute of Atmospheric Prediction System (KIAPS), Seoul, Korea 
-
 * Prof. [Hae Gyun Lim](https://sites.google.com/view/lim-lab/home), Pukyong National University, Busan, Korea 
-
 * Dr. [Sungyeop Jung](https://sites.google.com/view/sungyeopjung), Advanced Institute of Convergence Technology, Suwon, Korea
-
 * Prof. [Kang-Min Kim](https://kangmin89.com/), The Catholic University of Korea, Bucheon, Korea
-
 * Dr. Eunsoon You, Inha University, Incheon, Korea
-
 * Prof. Nam D. Vo, FPT University, Danang, Vietnam
 
 ***
