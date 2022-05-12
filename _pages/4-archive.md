@@ -13,12 +13,11 @@ image:
 ***
 ### October 27th - 28th, 2021
 
-<img width="700" src="/images/computing4human2021.PNG" padding="5px">
+<img width="700" src="/images/computing4human2020.PNG" padding="5px">
 
 ***
 ### February 15th, 2020
 
-<img width="700" src="/images/computing4human2020.PNG" padding="5px">
-
+<img width="700" src="/images/computing4human2021.PNG" padding="5px">
 
 
