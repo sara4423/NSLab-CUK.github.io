@@ -18,6 +18,7 @@ image:
 ***
 ### February 15th, 2020
 
+* We successfully organized [Computing4Human 2020](https://sites.google.com/view/computing4human/home) at Pohang, Rep. of Korea.
 <img width="700" src="/images/computing4human2021.PNG" padding="5px">
 
 
