@@ -9,7 +9,6 @@ image:
 ### December 16th - 17th, 2022
 
 * [Computing4Human 2022](https://c4h.isvnu.vn/) will be held at Hanoi, Vietnam.
-<img width="700" src="/images/computing4human2020.PNG" padding="5px">
 
 ***
 ### March 16th, 2022
