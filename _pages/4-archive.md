@@ -18,7 +18,7 @@ image:
 ***
 ### May 13th, 2022
 
-* We successfully finished an industry-academic cooperation project on "Chatbot-based Kiosk Interface and Menu Recommendation System," funded by Order Queen Co., Ltd (Feb 2022 -- Apr 2022, 10M KRW).
+* We successfully finished an industry-academic cooperation project on "Chatbot-based Kiosk Interface and Menu Recommendation System," funded by Order Queen Co., Ltd. (Feb 2022 -- Apr 2022, 10M KRW).
 
 ***
 ### March 16th, 2022
