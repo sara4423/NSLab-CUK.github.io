@@ -215,4 +215,6 @@ Projects
 Principal Investigator
 ------------
 
-* Intramural Research Grants, 50 Mil, POSTECH
+* Industry-Academic Cooperation Project, 10 Mil KRW, Order Queen Co., Ltd., 2022
+* Intramural Research Grants, 7 Mil KRW, CUK, 2021 -- 2022
+* Intramural Research Grants, 50 Mil KRW, POSTECH, 2021
