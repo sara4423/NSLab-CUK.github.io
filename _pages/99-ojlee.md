@@ -108,11 +108,29 @@ Book Chapters
 
 Conference Proceedings
 ============
+* Nam D Vo, O-Joun Lee, Khac-Hoai Nam Bui, Hae Gyun Lim, Hyeon-Ju Jeon, Phuong-Mai Nguyen, Jin-Taek Kim, Bui Quang Tuyen, Jason J Jung, Thuy Anh Vo: Computing4Human 2021: The 2nd International Conference on Human-centered Artificial Intelligence. The 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021), Da Nang, Vietnam; 10/2021 (Editorial)
+
+* Hyeon-Ju Jeon, Gyu-Sik Choi, Se-Young Cho, Hanbin Lee, Hee Yeon Ko, Jason J Jung, O-Joun Lee, Myeong-Yeon Yi: Learning Contextual Representations of Citations via Graph Transformer. The 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021), Da Nang, Vietnam; 10/2021
+
+* O-Joun Lee, Jin-Taek Kim, Eun-Soon You: Quantifying Conflicts in Narrative Multimedia by Analyzing Visual Storytelling Techniques. The 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021), Da Nang, Vietnam; 10/2021
+
+* O-Joun Lee, Jason J Jung: Story Embedding: Learning Distributed Representations of Stories based on Character Networks (Extended Abstract). The 29th International Joint Conference on Artificial Intelligence (IJCAI 2020) and the 17th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2020), Yokohama, Japan; 01/2021
+
+* O-Joun Lee, Sung Youn Park, Jin-Taek Kim: IdeaNet: Potential Opportunity Discovery for Business Innovation. Artificial Intelligence for Narratives Workshop (AI4Narratives 2020) held in conjunction with the 29th International Joint Conference on Artificial Intelligence (IJCAI 2020) and the 17th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2020), Yokohama, Japan; 01/2021
+
+* O-Joun Lee, Jin-Taek Kim, Eun-Soon You: Towards Story-based Summarization of Narrative Multimedia. The 2020 ACM International Conference on Intelligent Computing and its Emerging Applications (ICEA 2020), Gangwon, Korea; 12/2020
+
+* O-Joun Lee, Jin-Taek Kim: Learning Multi-modal Representations of Narrative Multimedia: a Case Study of Webtoons. The 2020 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2020), Gwangju, Korea; 10/2020
+
 * O-Joun Lee, Jin-Taek Kim: Measuring Narrative Fluency by Analyzing Dynamic Interaction Networks in Textual Narratives. The 3rd Workshop on Narrative Extraction From Texts (Text2Story 2020), co-located with the 42nd European Conference on Information Retrieval (ECIR 2020), Lisbon, Portugal; 04/2020
 
-* O-Joun Lee, Jason J. Jung: Computational Narrative Representation and Analytics. The 2nd International Conference on AI Humanities (ICAIH 2019), Seoul, Republic of Korea; 08/2019
+* Jin-Taek Kim, Jason J. Jung, Eunsoon You, O-Joun Lee: Computing4Human 2020: The 1st International Workshop on Computational Humanities and Social Sciences. The 1st International Workshop on Computational Humanities and Social Sciences (Computing4Human 2020), Pohang, Korea; 02/2020 (Editorial)
 
-* Luong Vuong Nguyen, O-Joun Lee, Hoang Long Nguyen, Sojung An, Jason J. Jung, Yue-Shan Chang: Crowdsourcing System for Measuring Cognitive Similarity in Recommendation System. The 2019 ISSAT International Conference on Data Science in Business, Finance and Industry, Da Nang, Vietnam; 07/2019
+* O-Joun Lee, Jin-Taek Kim: Discovering Mise-en-scène in Movies by Analyzing Scripts. The 1st International Workshop on Computational Humanities and Social Sciences (Computing4Human 2020), Pohang, Korea; 02/2020
+
+* O-Joun Lee, Jason J Jung: Computational Narrative Representation and Analytics. The 2nd International Conference on AI Humanities (ICAIH 2019), Seoul, Republic of Korea; 08/2019
+
+* Luong Vuong Nguyen, O-Joun Lee, Hoang Long Nguyen, Sojung An, Jason J. Jung, Yue-Shan Chang: Crowdsourcing System for Measuring Cognitive Similarity in Recommendation System. 2019 ISSAT International Conference on Data Science in Business, Finance and Industry, Da Nang, Vietnam; 07/2019
 
 * O-Joun Lee, Jason J. Jung: Character Network Embedding-based Plot Structure Discovery in Narrative Multimedia. The 9th International Conference on Web Intelligence, Mining and Semantics (WIMS 2019), Seoul, Korea; 06/2019, DOI:10.1145/3326467.3326485
 
@@ -127,6 +145,8 @@ Conference Proceedings
 * O-Joun Lee, Jason J. Jung, Eunsoon You: Predictive Clustering for Performance Stability in Collaborative Filtering Techniques. The 2nd IEEE International Conference on Cybernetics (CYBCONF 2015), Gdynia, Poland; 06/2015, DOI:10.1109/CYBConf.2015.7175905
 
 * Min-Sung Hong, O-Joun Lee, Jason J. Jung: Adaptive Clustering for Scalable Collaborative Filtering in Recommender Systems. The 3rd International Conference on Smart Media and Applications, Chiang Mai, Thailand; 12/2014, DOI:10.13140/2.1.1441.0566
+
+* Min-Sung Hong, O-Joun Lee, Gyu-Chan Lim, Se-Jun Park, Seung-Hoon Kim, Jae-Dong Lee: Meta-data Configuration and Learning Technique for Wellness Content Recommendation. International Conference on Computer Applications and Information Processing Technology (CAIPT 2014), Ulaanbaatar, Mongolia; 06/2014
 
 ***
 
@@ -169,6 +189,10 @@ Editorship
 
 Conference Committee
 ------------
+* Committee Member, The 3rd International Conference on Human-centered Artificial Intelligence (Computing4Human 2022), Hanoi, Vietnam, 12/2022.
+
+* Committee Member, The 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021), Danang, Vietnam, 10/2021.
+
 * Program Committee Member, Artificial Inteligence for Narratives Workshop (AI4Narrative) held in conjunction with the 29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim International Conference on Artificial Intelligence (IJCAI-PRICAI 2020), 07/2020.
 
 * Committee Member, The 1st International Workshop on Computational Humanities and Social Sciences (Computing4Human 2020), Pohang, Korea, 02/2020.
