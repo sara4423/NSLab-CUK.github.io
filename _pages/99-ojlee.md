@@ -8,19 +8,20 @@ image:
 > Narratives structure our understanding of the world and ourselves. <br>
 > [_(Lakoff and Narayanan, 2010)_](https://www.aaai.org/ocs/index.php/FSS/FSS10/paper/viewFile/2323/2834)
 
-***
 Academic Profiles
 ============
 [DBLP](http://dblp.uni-trier.de/pers/hd/l/Lee:O=Joun), [Google Scholar Citation](https://scholar.google.com/citations?user=43GFjoYAAAAJ&hl=en), [ORCID](http://orcid.org/0000-0001-8921-5443), [Scopus Author ID](https://www.scopus.com/authid/detail.uri?authorId=57150108800), [Publons](https://publons.com/researcher/268401/o-joun-lee/)
 
 ***
+
 Research Experience
 ============
-* Sep 2021 – Present: 
+* Sep 2021 – Present: Assistant Professor, The Catholic University of Korea, Bucheon, Gyeonggi-do, Republic of Korea
 
-* Sep 2019 – Aug 2021: Full-time Researcher, Future IT Innovation Laboratory, Pohang University of Science and Technology (POSTECH), Pohang, Gyeongsangbuk-do, South Korea
+* Sep 2019 – Aug 2021: Full-time Researcher, Future IT Innovation Laboratory, Pohang University of Science and Technology (POSTECH), Pohang, Gyeongsangbuk-do, Republic of Korea
 
 ***
+
 Education
 ============
 * Mar 2015 – Aug 2019: Chung-Ang University, Seoul, South Korea <br> Ph.D., Major in Application Software, School of Computer Science and Engineering
@@ -28,6 +29,7 @@ Education
 * Mar 2011 – Feb 2015: Dankook University, Yongin-si, Gyeonggi-do, South Korea <br> Bachelor of Engineering, Dept. of Software science
 
 ***
+
 Awards & Grants
 ============
 * Apr 2019: Best Paper Award, 2019 Spring Conference of Korea Institute of Smart Media (KISM) and Society for e-Business Studies (SEBS), Chungju, Korea
@@ -37,6 +39,7 @@ Awards & Grants
 * Nov 2015: Best Paper Award, The 4th EAI International Conference on Context-Aware Systems and Applications (ICCASA 2015), Vung Tau, Vietnam
 
 ***
+
 Journal Publications
 ============
 * O-Joun Lee, Jason J. Jung, Jin-Taek Kim: Learning Hierarchical Representations of Stories by Using Multi-Layered Structures in Narrative Multimedia. Sensors 04/2020; 20(7):1978., DOI:10.3390/s20071978
@@ -72,6 +75,7 @@ Journal Publications
 * O-joun Lee†, Min-sung Hong†, Jason J. Jung, Juhyun Shin, Pankoo Kim: Adaptive Collaborative Filtering Based on Scalable Clustering for Big Recommender Systems. Acta Polytechnica Hungarica 02/2016; 13(2). DOI:10.12700/APH.13.2.2016.2.10 († Co-first Authors)
 
 ***
+
 Book Chapters
 ============
 * Nam Bui Khac Hoai, Sungrae Cho, Jason J. Jung, Joongheon Kim, O-Joun Lee, Woongsoo Na: Network Engineering: Towards Data-Driven Framework for Network Configuration. Big Data Technologies and Applications - 8th International Conference on Big Data Technologies and Applications (BDTA 2017), Edited by Jason J. Jung, Pankoo Kim, Kwang Nam Choi, 11/2018: pages 60-65; Springer International Publishing., ISBN: 978-3-319-98751-4, DOI:10.1007/978-3-319-98752-1_7
@@ -87,6 +91,7 @@ Book Chapters
 * O-Joun Lee, Eunsoon You, Min-Sung Hong, Jason J. Jung: Adaptive Complex Event Processing Based on Collaborative Rule Mining Engine. Intelligent Information and Database Systems - 7th Asian Conference on Intelligent Information and Database Systems (ACIIDS 2015,), Edited by Ngoc Thanh Nguyen, Bogdan Trawinski, Raymond Kosala, 03/2015: pages 430–439; Springer International Publishing., ISBN: 978-3-319-15701-6, DOI:10.1007/978-3-319-15702-3_42
 
 ***
+
 Conference Proceedings
 ============
 * O-Joun Lee, Jin-Taek Kim: Measuring Narrative Fluency by Analyzing Dynamic Interaction Networks in Textual Narratives. The 3rd Workshop on Narrative Extraction From Texts (Text2Story 2020), co-located with the 42nd European Conference on Information Retrieval (ECIR 2020), Lisbon, Portugal; 04/2020
@@ -110,6 +115,7 @@ Conference Proceedings
 * Min-Sung Hong, O-Joun Lee, Jason J. Jung: Adaptive Clustering for Scalable Collaborative Filtering in Recommender Systems. The 3rd International Conference on Smart Media and Applications, Chiang Mai, Thailand; 12/2014, DOI:10.13140/2.1.1441.0566
 
 ***
+
 Patents
 ============
 * Jason J. Jung, O-Joun Lee: Method and apparatus for content analysis including story. Ref. No: KR 1020180058510, Year: 05/2018
@@ -135,6 +141,7 @@ Patents
 * O-Joun Lee, Jae-Dong Lee, Seung-Hun Kim, Won-Jin Lee, Seung-Bo Park, Min-Sung Hong, Se-Jun Park: APPARATUS AND METHOD FOR PREDICTING USER FEED BACK IN COLLABORATIVE RECOMMENDATION SYSTEM. Ref. No: KR1020140027865, Year: 03/2014
 
 ***
+
 Academic Activities
 ============
 
@@ -201,6 +208,7 @@ Peer Review
 * Reviewer, PeerJ Computer Science, since Mar 2016
 
 ***
+
 Projects
 ============
 
