@@ -10,7 +10,7 @@ image:
 # Director
 ***
 
-#### Prof. O-Joun Lee
+#### Prof. [O-Joun Lee](https://nslab-cuk.github.io/member/ojlee)
 
 <img align="left" width="180" height="240" src="/images/ojlee.jpg" padding="5px">
 
