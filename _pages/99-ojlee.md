@@ -210,41 +210,23 @@ Conference Committee
 Peer Review
 ------------
 * Reviewer, Computers, since Sep 2020
-
 * Reviewer, Complexity, since Aug 2020
-
 * Reviewer, Technology in Society, since Aug 2020
-
 * Reviewer, Symmetry, since Aug 2020
-
 * Reviewer, Applied Sciences, since Jun 2020
-
 * Reviewer, Plos One, since Apr 2020
-
 * Reviewer, IEEE Transactions on Mobile Computing, since Feb 2020
-
 * Reviewer, Digital Scholarship in the Humanities, since Dec 2019
-
 * Reviewer, Journal of Artificial Intelligence Humanities, since Oct 2019
-
 * Reviewer, IEEE Transactions on Industrial Informatics, since Jul 2019
-
 * Reviewer, Journal of Ambient Intelligence and Humanized Computing, since Jun 2019
-
 * Reviewer, Smart Media Journal, since Apr 2019
-
 * Reviewer, Open Engineering, since Jan 2019
-
 * Reviewer, Concurrency and Computation: Practice and Experience, since Jan 2019
-
 * Reviewer, International Journal of Information Management, since Dec 2018
-
 * Reviewer, IEEE Access, since Jul 2018
-
 * Reviewer, Future Generation Computer Systems, since Nov 2017
-
 * Reviewer, Multimedia Tools and Applications, since Aug 2017
-
 * Reviewer, PeerJ Computer Science, since Mar 2016
 
 ***
