@@ -18,7 +18,7 @@ image:
 ***
 ### May 13th, 2022
 
-<img align="right" width="200" src="/images/OrderQueenLogo.png" padding="5px">
+<img align="right" width="100" src="/images/OrderQueenLogo.png" padding="5px">
 
 * We successfully finished an industry-academic cooperation project on "Chatbot-based Kiosk Interface and Menu Recommendation System," funded by [Order Queen Co., Ltd.](http://www.orderqueen.co.kr/) (Feb 2022 -- Apr 2022, 10 Mil KRW), cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/) and his team.
 
