@@ -65,6 +65,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 * Prof. [Kang-Min Kim](https://kangmin89.com/), The Catholic University of Korea, Bucheon, Korea
 * Dr. Eunsoon You, Inha University, Incheon, Korea
 * Prof. Nam D. Vo, FPT University, Danang, Vietnam
+* Dr. Phuong-Mai Nguyen, International School, Vietnam National University, Hanoi, Vietnam
 
 ***
 # Alumni
