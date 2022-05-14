@@ -18,7 +18,7 @@ image:
 ***
 ### May 13th, 2022
 
-* We successfully finished an industry-academic cooperation project on "Chatbot-based Kiosk Interface and Menu Recommendation System," funded by Order Queen Co., Ltd. (Feb 2022 -- Apr 2022, 10 Mil KRW), cooperating with Prof. Kang-Min Kim and his team.
+* We successfully finished an industry-academic cooperation project on "Chatbot-based Kiosk Interface and Menu Recommendation System," funded by [Order Queen Co., Ltd.](http://www.orderqueen.co.kr/) (Feb 2022 -- Apr 2022, 10 Mil KRW), cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/) and his team.
 
 ***
 ### March 16th, 2022
@@ -36,5 +36,7 @@ image:
 
 * We successfully organized [Computing4Human 2020](https://sites.google.com/view/computing4human/home) at Pohang, Rep. of Korea.
 <img width="700" src="/images/computing4human2021.PNG" padding="5px">
+
+
 
 
