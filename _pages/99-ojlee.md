@@ -241,7 +241,7 @@ Principal Investigator
 * Intramural Research Grants, 7 Mil KRW, CUK, 2021 -- 2022
 * Intramural Research Grants, 50 Mil KRW, POSTECH, 2021
 
-Principal Investigator
+Co-Principal Investigator
 ------------
 
 * Industry-Academic Cooperation Project, 150 Mil KRW, IntoCNS Co., Ltd., 2022
