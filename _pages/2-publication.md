@@ -3,6 +3,8 @@ layout: page
 title: Publication
 permalink: /publication/
 image: Bib_Network.png
+toc: true
+toc_sticky: true
 ---
 
 * TOC
