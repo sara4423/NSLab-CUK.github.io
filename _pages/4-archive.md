@@ -47,7 +47,7 @@ image:
 * We successfully organized [Computing4Human 2021](http://due.udn.vn/vi-vn/computing4human-intro/cid/4673) at Danang, Vietnam.
 <img width="700" src="/images/computing4human2020.PNG" padding="5px">
 
-<img align="center" src="/images/CUKLogo.png" width="100" padding="10px"><img align="center" src="/images/UDNLogo.png" width="100" padding="10px"><img align="center" src="/images/CAULogo.png" width="100" padding="10px"><img align="center" src="/images/VNUISLogo.png" width="100" padding="10px"><img align="center" src="/images/PKNULogo.jpg" width="100" padding="10px">
+<p align="center"><img align="center" src="/images/CUKLogo.png" width="100" padding="10px"><img align="center" src="/images/UDNLogo.png" width="100" padding="10px"><img align="center" src="/images/CAULogo.png" width="100" padding="10px"><img align="center" src="/images/VNUISLogo.png" width="100" padding="10px"><img align="center" src="/images/PKNULogo.jpg" width="100" padding="10px"></p>
 
 ***
 <img align="right" width="100" src="/images/CUKLogo.png" padding="5px">
