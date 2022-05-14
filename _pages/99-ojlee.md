@@ -16,7 +16,7 @@ Academic Profiles
 
 Research Experience
 ============
-* Sep 2021 – Present: Assistant Professor, The Catholic University of Korea, Bucheon, Gyeonggi-do, Republic of Korea
+* Sep 2021 – Present: Assistant Professor, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Gyeonggi-do, Republic of Korea
 
 * Sep 2019 – Aug 2021: Full-time Researcher, Future IT Innovation Laboratory, Pohang University of Science and Technology (POSTECH), Pohang, Gyeongsangbuk-do, Republic of Korea
 
