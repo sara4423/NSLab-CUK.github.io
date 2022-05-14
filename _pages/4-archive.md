@@ -30,7 +30,7 @@ image:
 ***
 ### February 7th, 2022
 
-<img align="right" width="120" src="/images/IntoCNSLogo.png" padding="5px">
+<img align="right" width="120" src="/images/IntoCNSLogo.jpg" padding="5px">
 
 * We started an industry-academic cooperation project on "Development of Veterinary Information Services based on Chatbot," funded by [IntoCNS Co., Ltd.](http://intoh.monoalliance.com/) (Feb 2022 -- Oct 2022, 150 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/) and his team.
 
