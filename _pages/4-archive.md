@@ -48,6 +48,13 @@ image:
 <img width="700" src="/images/computing4human2020.PNG" padding="5px">
 
 ***
+<img align="right" width="120" src="/images/CUKLogo.png" padding="5px">
+
+### September 1st, 2021
+
+* We started an intramural research project on "Research Team Formation based on Bibliographic Network Embedding," funded by [The Catholic University of Korea](https://catholic.ac.kr/) (Sep 2021 -- Aug 2022, 7 Mil KRW).
+
+***
 ### February 15th, 2020
 
 * We successfully organized [Computing4Human 2020](https://sites.google.com/view/computing4human/home) at Pohang, Rep. of Korea.
