@@ -47,7 +47,7 @@ image:
 * We successfully organized [Computing4Human 2021](http://due.udn.vn/vi-vn/computing4human-intro/cid/4673) at Danang, Vietnam.
 <img width="700" src="/images/computing4human2020.PNG" padding="5px">
 
-<img align="center" src="/images/CUKLogo.png" width="150" padding="10px"><img align="center" src="/images/UDNLogo.png" width="150" padding="10px"><img align="center" src="/images/CAULogo.png" width="150" padding="10px"><img align="center" src="/images/VNUISLogo.png" width="150" padding="10px"><img align="center" src="/images/PKNULogo.jpg" width="150" padding="10px">
+<img align="center" src="/images/CUKLogo.png" width="100" padding="10px"><img align="center" src="/images/UDNLogo.png" width="100" padding="10px"><img align="center" src="/images/CAULogo.png" width="100" padding="10px"><img align="center" src="/images/VNUISLogo.png" width="100" padding="10px"><img align="center" src="/images/PKNULogo.jpg" width="100" padding="10px">
 
 ***
 <img align="right" width="100" src="/images/CUKLogo.png" padding="5px">
@@ -62,7 +62,7 @@ image:
 * We successfully organized [Computing4Human 2020](https://sites.google.com/view/computing4human/home) at Pohang, Rep. of Korea.
 <img width="700" src="/images/computing4human2021.PNG" padding="5px">
 
-<img align="center" src="/images/POSTECHLogo.png" width="150" padding="10px"><img align="center" src="/images/CAULogo.png" width="150" padding="10px">
+<img align="center" src="/images/POSTECHLogo.png" width="100" padding="10px"><img align="center" src="/images/CAULogo.png" width="100" padding="10px">
 
 
 
