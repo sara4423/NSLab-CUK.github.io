@@ -16,7 +16,7 @@ image:
 <img width="500" height="500" src="/images/20220513.jpg" padding="5px">
 
 ***
-<img align="right" width="120" src="/images/OrderQueenLogo.png" padding="5px">
+<img align="right" width="100" src="/images/OrderQueenLogo.png" padding="5px">
 
 ### May 13th, 2022
 
@@ -30,12 +30,12 @@ image:
 ***
 ### February 7th, 2022
 
-<img align="right" width="120" src="/images/IntoCNSLogo.jpg" padding="5px">
+<img align="right" width="100" src="/images/IntoCNSLogo.jpg" padding="5px">
 
 * We started an industry-academic cooperation project on "Development of Veterinary Information Services based on Chatbot," funded by [IntoCNS Co., Ltd.](http://intoh.monoalliance.com/) (Feb 2022 -- Oct 2022, 150 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/) and his team.
 
 ***
-<img align="right" width="120" src="/images/OrderQueenLogo.png" padding="5px">
+<img align="right" width="100" src="/images/OrderQueenLogo.png" padding="5px">
 
 ### January 26th, 2022
 
@@ -48,7 +48,7 @@ image:
 <img width="700" src="/images/computing4human2020.PNG" padding="5px">
 
 ***
-<img align="right" width="120" src="/images/CUKLogo.png" padding="5px">
+<img align="right" width="100" src="/images/CUKLogo.png" padding="5px">
 
 ### September 1st, 2021
 
