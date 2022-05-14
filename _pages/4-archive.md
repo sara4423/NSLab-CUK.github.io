@@ -16,7 +16,7 @@ image:
 <img width="500" height="500" src="/images/20220513.jpg" padding="5px">
 
 ***
-<img align="right" width="100" src="/images/OrderQueenLogo.png" padding="5px">
+<img align="right" width="120" src="/images/OrderQueenLogo.png" padding="5px">
 
 ### May 13th, 2022
 
