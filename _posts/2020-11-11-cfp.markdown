@@ -10,6 +10,10 @@ tags:   CFP
 
 ***
 
+<p align="center"><img align="center" src="/images/CUKLogo.png" width="120" padding="10px"><img align="center" src="/images/UDNLogo.png" width="120" padding="10px"><img align="center" src="/images/CAULogo.png" width="120" padding="10px"><img align="center" src="/images/VNUISLogo.png" width="120" padding="10px"><img align="center" src="/images/PKNULogo.jpg" width="120" padding="10px"></p>
+
+***
+
 Aims and Scope
 ------------
 
