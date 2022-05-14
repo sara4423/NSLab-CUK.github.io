@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Jiyoon Song"
-permalink: /member/ojlee
+permalink: /member/jysong
 image: 
 ---
 
