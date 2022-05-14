@@ -59,6 +59,7 @@ image:
 
 * We successfully organized [Computing4Human 2020](https://sites.google.com/view/computing4human/home) at Pohang, Rep. of Korea.
 <img width="700" src="/images/computing4human2021.PNG" padding="5px">
+
 * Organizers
 <img align="center" src="/images/POSTECHLogo.png" width="150" padding="10px"><img align="center" src="/images/CAULogo.png" width="150" padding="10px">
 
