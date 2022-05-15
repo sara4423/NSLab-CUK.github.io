@@ -71,7 +71,7 @@ Important Dates/Tentative Schedule
 
 ***
 
-<p align="center"><img align="center" src="/images/POSTECHLogo.png" width="120" padding="10px"><img align="center" src="/images/CAULogo.png" width="120" padding="10px"></p>
+<p align="center"><a href="https://postech.ac.kr/"><img align="center" src="/images/POSTECHLogo.png" width="120" padding="10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" width="120" padding="10px"></a></p>
 
 ***
 
