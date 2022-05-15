@@ -10,7 +10,7 @@ image:
 
 * [Computing4Human 2022](https://c4h.isvnu.vn/) will be held at Hanoi, Vietnam.
 
-<p align="center"><img align="center" src="/images/CUKLogo.png" width="120" padding="10px"><img align="center" src="/images/UDNLogo.png" width="120" padding="10px"><img align="center" src="/images/CAULogo.png" width="120" padding="10px"><img align="center" src="/images/VNUISLogo.png" width="120" padding="10px"><img align="center" src="/images/PKNULogo.jpg" width="120" padding="10px"></p>
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/CUKLogo.png" width="120" padding="10px"></a><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/UDNLogo.png" width="120" padding="10px"></a><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/CAULogo.png" width="120" padding="10px"></a><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/VNUISLogo.png" width="120" padding="10px"></a><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/PKNULogo.jpg" width="120" padding="10px"></a></p>
 
 ***
 ### May 15th, 2022
