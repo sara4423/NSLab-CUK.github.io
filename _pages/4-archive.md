@@ -10,7 +10,7 @@ image:
 
 * [Computing4Human 2022](https://c4h.isvnu.vn/) will be held at Hanoi, Vietnam.
 
-<p align="center"><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" width="120" padding="10px"></a><a href="https://www.udn.vn/english"><img align="center" src="/images/UDNLogo.png" width="120" padding="10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" width="120" padding="10px"></a><a href="https://vnuis.edu.vn/en/"><img align="center" src="/images/VNUISLogo.png" width="120" padding="10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.jpg" width="120" padding="10px"></a></p>
+<p align="center"><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" width="120" padding="10px"></a><a href="https://www.udn.vn/english"><img align="center" src="/images/UDNLogo.png" width="120" padding="10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" width="120" padding="10px"></a><a href="https://vnuis.edu.vn/en/"><img align="center" src="/images/VNUISLogo.png" width="120" padding="10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.png" width="120" padding="10px"></a></p>
 
 ***
 ### May 15th, 2022
@@ -49,7 +49,7 @@ image:
 * We successfully organized [Computing4Human 2021](http://due.udn.vn/vi-vn/computing4human-intro/cid/4673) at Danang, Vietnam.
 <img width="700" src="/images/computing4human2020.PNG" padding="5px">
 
-<p align="center"><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" width="120" padding="10px"></a><a href="https://www.udn.vn/english"><img align="center" src="/images/UDNLogo.png" width="120" padding="10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" width="120" padding="10px"></a><a href="https://vnuis.edu.vn/en/"><img align="center" src="/images/VNUISLogo.png" width="120" padding="10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.jpg" width="120" padding="10px"></a></p>
+<p align="center"><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" width="120" padding="10px"></a><a href="https://www.udn.vn/english"><img align="center" src="/images/UDNLogo.png" width="120" padding="10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" width="120" padding="10px"></a><a href="https://vnuis.edu.vn/en/"><img align="center" src="/images/VNUISLogo.png" width="120" padding="10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.png" width="120" padding="10px"></a></p>
 
 ***
 <img align="right" width="100" src="/images/CUKLogo.png" padding="5px">
