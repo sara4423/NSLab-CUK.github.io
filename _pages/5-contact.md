@@ -18,7 +18,8 @@ image: CUK.jpg
 ***
 ### Email Addresses
 
-* ojlee@catholic.ac.kr
-* nslab.ai.cuk@gmail.com
+* Official: [nslab.ai.cuk@gmail.com](mailto:nslab.ai.cuk@gmail.com)
+* Director: [ojlee@catholic.ac.kr](mailto:ojlee@catholic.ac.kr)
+* Lab Rep.: [sarasong4423@gmail.com](mailto:sarasong4423@gmail.com)
 
 ***
