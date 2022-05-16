@@ -88,7 +88,7 @@ toc_label: "Table of Contents"
 ***
 ## Lightweight Age and Gender Classifier and Face Tracker
 
-<iframe width="600" src="https://www.youtube.com/embed/n0gDwgyqzZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1065" height="826" src="https://www.youtube.com/embed/n0gDwgyqzZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
