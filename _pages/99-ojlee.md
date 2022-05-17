@@ -246,4 +246,9 @@ Co-Principal Investigator
 
 * Industry-Academic Cooperation Project, 150 Mil KRW, IntoCNS Co., Ltd., 2022
 
+Participants
+------------
+
+* Next-generation Intelligence-Type Semiconductor Development Program, 550 Mil KRW, MSIT, 2022 -- 2024
+
 
