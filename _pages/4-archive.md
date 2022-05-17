@@ -29,7 +29,7 @@ image:
 
 * We started participating in the Next-generation Intelligence-Type Semiconductor Development Program on "Development of ML-based multi scale simulation platform for designing and optimizing ReRAM crossbar array (CBA) circuits for AI semiconductors," supported by NRF of Korea and funded by MSIT of Korea (Apr 2022 -- Dec 2024, 550 Mil KRW), by cooperating with Dr. [Sungyeop Jung](https://sites.google.com/view/sungyeopjung) at Advanced Institute of Convergence Technology. 
 
-<p align="center"><a href="https://www.cau.ac.kr/"><img align="center" src="/images/NRFLogo.png" width="120" padding="10px"></a><a href="https://vnuis.edu.vn/en/"><img align="center" src="/images/MSITLogo.png" width="120" padding="10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/AICTLogo.png" width="120" padding="10px"></a></p>
+<p align="center"><a href="https://nrf.re.kr/"><img align="center" src="/images/NRFLogo.png" width="120" padding="10px"></a><a href="https://www.msit.go.kr/"><img align="center" src="/images/MSITLogo.png" width="120" padding="10px"></a><a href="https://aict.snu.ac.kr/"><img align="center" src="/images/AICTLogo.png" width="120" padding="10px"></a></p>
 
 ***
 ### March 16th, 2022
