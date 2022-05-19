@@ -15,7 +15,7 @@ toc_label: "Table of Contents"
 # Dynamic Heterogeneous Network Embedding
 
 <p align="center">
-  <img width="600" data-action="zoom" src="/images/embedding.png" alt="absolute">
+  <img width="700" data-action="zoom" src="/images/embedding.png" alt="absolute">
   <em>Multi-Resolution Network Embedding.</em>
 </p>
 
@@ -60,7 +60,7 @@ toc_label: "Table of Contents"
 ### Solar Irradiance Forecasting
 
 <p align="center">
-  <img align="center" width="300" data-action="zoom" src="/images/map3.png" alt="absolute" padding="10px"><img align="center" width="300" data-action="zoom" src="/images/station_heatmap.png" alt="absolute" padding="10px">
+  <img align="center" width="350" data-action="zoom" src="/images/map3.png" alt="absolute" padding="10px"><img align="center" width="350" data-action="zoom" src="/images/station_heatmap.png" alt="absolute" padding="10px">
 </p>
 
 * TBA
@@ -72,7 +72,7 @@ toc_label: "Table of Contents"
 ## Single-cell Analysis using the Integration of High-Frequency Single-Beam Acoustic Tweezers and Deep Neural Networks
 
 <p align="center">
-  <img width="600" src="/images/Fig4.JPG">
+  <img width="700" src="/images/Fig4.JPG">
 </p>
 
 * Hyeon-Ju Jeon, Hae Gyun Lim, K. Kirk Shung, O-Joun Lee†, Min Gon Kim†: Automated cell-type classification combining dilated convolutional neural networks with label-free acoustic sensing. Scientific Reports (Under Review) (†: Co-correspondence).
@@ -85,7 +85,7 @@ toc_label: "Table of Contents"
 ## Diagnosis and Staging of Liver Fibrosis
 
 <p align="center">
-  <img width="600" src="/images/liver.png">
+  <img width="700" src="/images/liver.png">
 </p>
 
 * TBA
@@ -96,7 +96,7 @@ toc_label: "Table of Contents"
 ***
 ## Lightweight Age and Gender Classifier and Face Tracker
 
-<iframe width="1065" height="826" src="https://www.youtube.com/embed/n0gDwgyqzZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" src="https://www.youtube.com/embed/n0gDwgyqzZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
