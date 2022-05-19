@@ -14,7 +14,7 @@ toc_label: "Table of Contents"
 ***
 # Dynamic Heterogeneous Network Embedding
 
-<p>
+<p align="center">
   <img width="600" data-action="zoom" src="/images/embedding.png" alt="absolute">
   <em>Multi-Resolution Network Embedding.</em>
 </p>
@@ -71,7 +71,9 @@ toc_label: "Table of Contents"
 ***
 ## Single-cell Analysis using the Integration of High-Frequency Single-Beam Acoustic Tweezers and Deep Neural Networks
 
-<img width="600" src="/images/Fig4.JPG">
+<p align="center">
+  <img width="600" src="/images/Fig4.JPG">
+</p>
 
 * Hyeon-Ju Jeon, Hae Gyun Lim, K. Kirk Shung, O-Joun Lee†, Min Gon Kim†: Automated cell-type classification combining dilated convolutional neural networks with label-free acoustic sensing. Scientific Reports (Under Review) (†: Co-correspondence).
 
@@ -82,7 +84,9 @@ toc_label: "Table of Contents"
 ***
 ## Diagnosis and Staging of Liver Fibrosis
 
-<img width="600" src="/images/liver.png">
+<p align="center">
+  <img width="600" src="/images/liver.png">
+</p>
 
 * TBA
 
