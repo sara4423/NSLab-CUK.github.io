@@ -171,5 +171,7 @@ toc_label: "Table of Contents"
 
 * O-Joun Lee: Trends in Interdisciplinary Research and Collaboration Opportunities. Vietnam National University, Hanoi - International School (VNU - IS), 09/2021
 
-<img src="/images/Talk-VNUIS.jpg">
+<p align="center">
+  <img width="600" data-action="zoom" src="/images/Talk-VNUIS.jpg" alt="absolute">
+</p>
 
