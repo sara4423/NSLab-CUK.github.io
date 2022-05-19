@@ -59,6 +59,11 @@ toc_label: "Table of Contents"
 
 ### Solar Irradiance Forecasting
 
+<p>
+  <img height="300" data-action="zoom" src="/images/map3.png" alt="absolute">
+  <img height="300" data-action="zoom" src="/images/station_heatmap.png" alt="absolute">
+</p>
+
 * TBA
 
 ***
