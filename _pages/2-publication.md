@@ -139,27 +139,27 @@ toc_label: "Table of Contents"
 
 ***
 
-* Jason J. Jung, O-Joun Lee: Method and apparatus for content analysis including story. Ref. No: KR 1020180058510, Year: 05/2018
+* Jason J. Jung, O-Joun Lee: Method and apparatus for content analysis including story. Ref. No: KR 1020180058510, 05/2018
 
-* Jason J. Jung, Jaehong Park, O-Joun Lee, Min-Sung Hong: Server and Method for providing search results using SNS date, Recording medium for performing the method. Ref. No: KR 1020170165067, Year: 12/2017
+* Jason J. Jung, Jaehong Park, O-Joun Lee, Min-Sung Hong: Server and Method for providing search results using SNS date, Recording medium for performing the method. Ref. No: KR 1020170165067, 12/2017
 
-* Jason J. Jung, Min-Sung Hong, O-Joun Lee: Apparatus and Method for recommending item to user group using emotion information. Ref. No: KR1020170042015, Year: 03/2017
+* Jason J. Jung, Min-Sung Hong, O-Joun Lee: Apparatus and Method for recommending item to user group using emotion information. Ref. No: KR1020170042015, 03/2017
 
-* Jason J. Jung, Min-Sung Hong, O-Joun Lee: Apparatus and Method for recommending item for user group. Ref. No: KR1020170033241, Year: 03/2017
+* Jason J. Jung, Min-Sung Hong, O-Joun Lee: Apparatus and Method for recommending item for user group. Ref. No: KR1020170033241, 03/2017
 
-* Jason J. Jung, O-Joun Lee: Method and Apparatus for matching identification information of plurality of SNS. Ref. No: KR 1020150128425, Year: 09/2015
+* Jason J. Jung, O-Joun Lee: Method and Apparatus for matching identification information of plurality of SNS. Ref. No: KR 1020150128425, 09/2015
 
-* Jason J. Jung, O-Joun Lee: Event processing system, Event processing method and Computer program. Ref. No: KR1020150099077, Year: 07/2015
+* Jason J. Jung, O-Joun Lee: Event processing system, Event processing method and Computer program. Ref. No: KR1020150099077, 07/2015
 
-* Hyun-Sik Kim, Seung-Bo Park, Eun-Soon You, O-Joun Lee, Byung Joon Cho: APPARATUS AND METHOD FOR SUPPORTING WRITER BY TRACING CONVERSATION BASED ON TEXT ANALYSIS. Ref. No: KR1020150057199, Year: 04/2015
+* Hyun-Sik Kim, Seung-Bo Park, Eun-Soon You, O-Joun Lee, Byung Joon Cho: APPARATUS AND METHOD FOR SUPPORTING WRITER BY TRACING CONVERSATION BASED ON TEXT ANALYSIS. Ref. No: KR1020150057199, 04/2015
 
-* O-Joun Lee, Eun-Soon You, Byung Joon Cho: APPARATUS AND METHOD FOR PREDICTIVE CLUSTERING-BASED COLLABORATIVE FILTERING. Ref. No: KR1020150042144, Year: 03/2015
+* O-Joun Lee, Eun-Soon You, Byung Joon Cho: APPARATUS AND METHOD FOR PREDICTIVE CLUSTERING-BASED COLLABORATIVE FILTERING. Ref. No: KR1020150042144, 03/2015
 
-* Jae-Dong Lee, Seung-Hun Kim, Min-Sung Hong, Kee-Won Kim, O-Joun Lee, Won-Jin Lee: APPARATUS FOR ANALYZING CONTENTS AND METHOD THEREOF. Ref. No: KR1020140093024, Year: 07/2014
+* Jae-Dong Lee, Seung-Hun Kim, Min-Sung Hong, Kee-Won Kim, O-Joun Lee, Won-Jin Lee: APPARATUS FOR ANALYZING CONTENTS AND METHOD THEREOF. Ref. No: KR1020140093024, 07/2014
 
-* O-Joun Lee, Jae-Dong Lee, Won-Jin Lee, Seung-Bo Park, Min-Sung Hong, Gyu-Chan Lim: APPARATUS AND METHOD FOR HYBRID FILTERING CONTENT RECOMMENDATION USING USER PROFILE AND CONTEXT INFORMATION BASED ON PREFERENCE. Ref. No: KR1020140027866, Year: 03/2014
+* O-Joun Lee, Jae-Dong Lee, Won-Jin Lee, Seung-Bo Park, Min-Sung Hong, Gyu-Chan Lim: APPARATUS AND METHOD FOR HYBRID FILTERING CONTENT RECOMMENDATION USING USER PROFILE AND CONTEXT INFORMATION BASED ON PREFERENCE. Ref. No: KR1020140027866, 03/2014
 
-* O-Joun Lee, Jae-Dong Lee, Seung-Hun Kim, Won-Jin Lee, Seung-Bo Park, Min-Sung Hong, Se-Jun Park: APPARATUS AND METHOD FOR PREDICTING USER FEED BACK IN COLLABORATIVE RECOMMENDATION SYSTEM. Ref. No: KR1020140027865, Year: 03/2014
+* O-Joun Lee, Jae-Dong Lee, Seung-Hun Kim, Won-Jin Lee, Seung-Bo Park, Min-Sung Hong, Se-Jun Park: APPARATUS AND METHOD FOR PREDICTING USER FEED BACK IN COLLABORATIVE RECOMMENDATION SYSTEM. Ref. No: KR1020140027865, 03/2014
 
 
 
@@ -169,7 +169,7 @@ toc_label: "Table of Contents"
 
 ***
 
-* O-Joun Lee: Trends in Interdisciplinary Research and Collaboration Opportunities. Vietnam National University, Hanoi - International School (VNU - IS), Year: 09/2021
+* O-Joun Lee: Trends in Interdisciplinary Research and Collaboration Opportunities. Vietnam National University, Hanoi - International School (VNU - IS), 09/2021
 
 <img src="/images/Talk-VNUIS.jpg">
 
