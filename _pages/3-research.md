@@ -59,7 +59,7 @@ toc_label: "Table of Contents"
 
 ### Solar Irradiance Forecasting
 
-<div id="inline">
+<div id="inline" align="center">
   <img align="center" width="350" data-action="zoom" src="/images/map3.png" alt="absolute" padding="10px"><img align="center" width="350" data-action="zoom" src="/images/station_heatmap.png" alt="absolute" padding="10px">
 </div>
 
