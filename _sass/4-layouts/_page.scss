@@ -78,4 +78,26 @@
     width: 100;
 }
 
+.row {
+  display: flex;
+}
 
+.column {
+  flex: 50%;
+}
+
+.columnLeft {
+  float: left;
+}
+
+.columnRight {
+  float: right;
+}
+
+.left {
+  width: 80%;
+}
+
+.right {
+  width: 20%;
+}
