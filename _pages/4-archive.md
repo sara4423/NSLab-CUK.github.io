@@ -6,7 +6,7 @@ image:
 ---
 
 ***
-### Dec 16th - 17th, 2022
+### Dec 16th -- 17th, 2022
 
 * [Computing4Human 2022](https://c4h.isvnu.vn/) will be held at Hanoi, Vietnam.
 
@@ -51,7 +51,7 @@ image:
 * We started an industry-academic cooperation project on "Chatbot-based Kiosk Interface and Menu Recommendation System," funded by [Order Queen Co., Ltd.](http://www.orderqueen.co.kr/) (Feb 2022 -- Apr 2022, 10 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/) and his team.
 
 ***
-### Oct 27th - 28th, 2021
+### Oct 27th -- 28th, 2021
 
 * We successfully organized [Computing4Human 2021](http://due.udn.vn/vi-vn/computing4human-intro/cid/4673) at Danang, Vietnam.
 <img width="700" src="/images/computing4human2020.PNG" padding="5px">
