@@ -103,3 +103,14 @@ toc_label: "Table of Contents"
 * [[GitHub](https://github.com/NSLab-CUK/Lightweight-Age-Gender-Classifier)]
 
 
+.column {
+  float: left;
+}
+
+.left {
+  width: 25%;
+}
+
+.right {
+  width: 75%;
+}
