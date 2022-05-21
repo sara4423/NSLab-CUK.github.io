@@ -59,11 +59,20 @@ image:
 <p align="center"><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" width="120" padding="10px"></a><a href="https://www.udn.vn/english"><img align="center" src="/images/UDNLogo.png" width="120" padding="10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" width="120" padding="10px"></a><a href="https://vnuis.edu.vn/en/"><img align="center" src="/images/VNUISLogo.png" width="120" padding="10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.png" width="120" padding="10px"></a></p>
 
 ***
-<img align="right" width="100" src="/images/CUKLogo.png" padding="5px">
+
 
 ### September 1st, 2021
 
-* We started an intramural research project on "Research Team Formation based on Bibliographic Network Embedding," funded by [The Catholic University of Korea](https://catholic.ac.kr/) (Sep 2021 -- Aug 2022, 7 Mil KRW).
+<div class="row">
+  <div class="column">
+  * We started an intramural research project on "Research Team Formation based on Bibliographic Network Embedding," funded by [The Catholic University of Korea](https://catholic.ac.kr/) (Sep 2021 -- Aug 2022, 7 Mil KRW).
+  </div>
+  <div class="column">
+  <img align="right" width="100" src="/images/CUKLogo.png" padding="5px">
+  </div>
+</div>
+
+
 
 ***
 ### February 15th, 2020
