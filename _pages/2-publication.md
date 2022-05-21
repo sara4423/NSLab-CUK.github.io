@@ -8,7 +8,6 @@ toc_sticky: true
 toc_label: "Table of Contents"
 ---
 
-##### Table of Contents
 * TOC
 {:toc}
 
