@@ -64,10 +64,10 @@ image:
 ### September 1st, 2021
 
 <div class="row">
-  <div class="column">
+  <div class="columnLeft">
   * We started an intramural research project on "Research Team Formation based on Bibliographic Network Embedding," funded by [The Catholic University of Korea](https://catholic.ac.kr/) (Sep 2021 -- Aug 2022, 7 Mil KRW).
   </div>
-  <div class="column">
+  <div class="columnRight">
   <img align="right" width="100" src="/images/CUKLogo.png" padding="5px">
   </div>
 </div>
