@@ -22,6 +22,10 @@ layout: default
 	<div class="row">
 		<!-- begin page -->
 		<article class="page col col-8 col-t-10 col-m-12">
+			<div class="toc">
+      				<a href="#">&lt;맨 위로&gt;</a>
+      				{% include toc.html html=content %}
+    			</div>
 			<div class="page__content">
 				{{ content }}
 			</div>
