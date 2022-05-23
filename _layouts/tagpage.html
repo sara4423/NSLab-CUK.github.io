@@ -47,11 +47,11 @@ layout: default
 </div>
 
 <div class="container">
-    <div class="row">
+    <ul>
         {% for post in site.tags[page.tag] %}
         {% include article-content.html %}
         {% endfor %}
-    </div>
+    </ul>
 </div>  
 
 <!--
