@@ -1,6 +1,20 @@
 .contact {
   .contact__list {
     li {
+      margin-left: 15px;
+      display: inline-block;
+
+      a {
+        font-size: 18px;
+        color: $gray;
+        &:hover {
+          color: $dark;
+        }
+      }
+    }
+  }
+  .contact__list__footer {
+    li {
       margin-left: 10px;
       margin-right: 10px;
       display: inline-block;
