@@ -30,13 +30,16 @@ layout: default
             </div>
         </div>
     </div>
+    
+</div>
+<hr>
+<div class="container">
     <ul>
         {% for post in site.tags[page.tag] %}
         {% include article-content.html %}
         {% endfor %}
     </ul>
-</div>
-<hr>
+</div>  
 
 
 
