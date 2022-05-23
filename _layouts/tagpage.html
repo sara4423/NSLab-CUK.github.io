@@ -39,9 +39,7 @@ layout: default
 <div class="container">
 	<div class="row">
 		<div class="col col-12">
-			{% if site.posts.size > 0 %}
-				<h4 class="lates-title">Related Posts</h4>
-			{% endif %}
+			<h4 class="lates-title">Related Posts</h4>
 		</div>
 	</div>
 </div>
@@ -49,7 +47,7 @@ layout: default
 <div class="container">
     <div class="row">
         {% for post in site.tags[page.tag] %}
-        {% include article-content.html %}
+        	{% include article-content.html %}
         {% endfor %}
     </div> 
 </div>  
