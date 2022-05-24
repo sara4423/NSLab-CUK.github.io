@@ -59,7 +59,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 # Collaborators
 ***
 
-* [Hyeon-Ju Jeon](https://higd963.github.io/), Korea Institute of Atmospheric Prediction System (KIAPS), Seoul, Korea [[GitHub](https://github.com/higd963)]
+* [Hyeon-Ju Jeon](https://higd963.github.io/), Korea Institute of Atmospheric Prediction System, Seoul, Korea [[GitHub](https://github.com/higd963)]
 * Prof. [Chang Choi](https://sites.google.com/site/phdchangchoi/), Gachon University, Seongnam, Korea
 * Prof. Hoon Ko, Chungbuk National University, Cheongju, Korea
 * Prof. [Hae Gyun Lim](https://sites.google.com/view/lim-lab/home), Pukyong National University, Busan, Korea 
