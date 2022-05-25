@@ -103,5 +103,6 @@ toc_label: "Table of Contents"
 <br>
 
 * [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-red?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Lightweight-Age-Gender-Classifier)
+* [![YouTube](https://img.shields.io/badge/YouTube-Demo%20Video-#FF0000?style=flat-square&logo=YouTube)](https://youtu.be/n0gDwgyqzZY)
 
 
