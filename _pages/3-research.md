@@ -102,6 +102,6 @@ toc_label: "Table of Contents"
 
 <br>
 
-* [[GitHub](https://github.com/NSLab-CUK/Lightweight-Age-Gender-Classifier)]
+* [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-red?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Lightweight-Age-Gender-Classifier)
 
 
