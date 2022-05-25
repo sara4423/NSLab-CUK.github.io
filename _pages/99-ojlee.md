@@ -8,6 +8,7 @@ image:
 > Narratives structure our understanding of the world and ourselves. <br>
 > [_(Lakoff and Narayanan, 2010)_](https://www.aaai.org/ocs/index.php/FSS/FSS10/paper/viewFile/2323/2834)
 
+<br>
 
 [![DBLP](https://img.shields.io/badge/DBLP-004F9F?style=flat-square&logo=dblp)](http://dblp.uni-trier.de/pers/hd/l/Lee:O=Joun) [![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google%20scholar)](https://scholar.google.com/citations?user=43GFjoYAAAAJ&hl=en) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID)](http://orcid.org/0000-0001-8921-5443) [![Scopus](https://img.shields.io/badge/Scopus%20Author%20ID-E9711C?style=flat-square&logo=Scopus)](https://www.scopus.com/authid/detail.uri?authorId=57150108800) [![Publons](https://img.shields.io/badge/Publons-336699?style=flat-square&logo=Publons)](https://publons.com/researcher/268401/o-joun-lee/) 
 
