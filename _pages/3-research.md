@@ -28,7 +28,7 @@ toc_label: "Table of Contents"
 
 * O-Joun Lee, Seungha Hong, Jin-Taek Kim: Interinstitutional Research Team Formation Based on Bibliographic Network Embedding. Mobile Information Systems 02/2021; 2021: 6629520. <br>[![DOI](http://img.shields.io/:DOI-10.1155/2021/6629520-blue.svg?style=flat)](https://doi.org/10.1155/2021/6629520)
 
-* Hyeon-Ju Jeon, O-Joun Lee, Jason. J. Jung: Is Performance of Scholars Correlated to Their Research Collaboration Patterns?. Frontiers in Big Data 11/2019; 2(39). DOI:10.3389/fdata.2019.00039 [[GitHub](https://github.com/higd963/Collaboration2Vec)]
+* Hyeon-Ju Jeon, O-Joun Lee, Jason. J. Jung: Is Performance of Scholars Correlated to Their Research Collaboration Patterns?. Frontiers in Big Data 11/2019; 2(39). <br>[![DOI](http://img.shields.io/:DOI-10.3389/fdata.2019.00039-blue.svg?style=flat)](https://doi.org/10.3389/fdata.2019.00039) [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-red)](https://github.com/higd963/Collaboration2Vec)
 
 ***
 ## Rumor Propagation Detection
