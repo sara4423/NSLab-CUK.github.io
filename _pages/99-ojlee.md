@@ -12,7 +12,7 @@ Academic Profiles
 ------------
 [DBLP](http://dblp.uni-trier.de/pers/hd/l/Lee:O=Joun), [Google Scholar Citation](https://scholar.google.com/citations?user=43GFjoYAAAAJ&hl=en), [ORCID](http://orcid.org/0000-0001-8921-5443), [Scopus Author ID](https://www.scopus.com/authid/detail.uri?authorId=57150108800), [Publons](https://publons.com/researcher/268401/o-joun-lee/)
 
-[![DBLP](https://img.shields.io/badge/DBLP-004F9F?style=flat-square&logo=dblp)](http://dblp.uni-trier.de/pers/hd/l/Lee:O=Joun) [![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Scholar)](https://scholar.google.com/citations?user=43GFjoYAAAAJ&hl=en) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID)](http://orcid.org/0000-0001-8921-5443)
+[![DBLP](https://img.shields.io/badge/DBLP-004F9F?style=flat-square&logo=dblp)](http://dblp.uni-trier.de/pers/hd/l/Lee:O=Joun) [![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Google Scholar)](https://scholar.google.com/citations?user=43GFjoYAAAAJ&hl=en) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID)](http://orcid.org/0000-0001-8921-5443)
 
 ***
 
