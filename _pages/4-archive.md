@@ -10,7 +10,7 @@ image:
 
 * [Computing4Human 2022](https://c4h.isvnu.vn/) will be held at Hanoi, Vietnam.
 
-<p align="center"><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" width="120" padding="10px"></a><a href="https://www.udn.vn/english"><img align="center" src="/images/UDNLogo.png" width="120" padding="10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" width="120" padding="10px"></a><a href="https://vnuis.edu.vn/en/"><img align="center" src="/images/VNUISLogo.png" width="120" padding="10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.png" width="120" padding="10px"></a></p>
+<p align="center"><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.udn.vn/english"><img align="center" src="/images/UDNLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" style="width : 120px; margin : 10px"></a><a href="https://vnuis.edu.vn/en/"><img align="center" src="/images/VNUISLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.png" style="width : 120px; margin : 10px"></a></p>
 
 ***
 ### May 15th, 2022
@@ -29,7 +29,7 @@ image:
 
 * We started participating in the Next-generation Intelligence-Type Semiconductor Development Program on "Development of ML-based multi scale simulation platform for designing and optimizing ReRAM crossbar array (CBA) circuits for AI semiconductors," supported by NRF of Korea and funded by MSIT of Korea (Apr 2022 -- Dec 2024, 550 Mil KRW), by cooperating with Dr. [Sungyeop Jung](https://sites.google.com/view/sungyeopjung) at Advanced Institute of Convergence Technology. 
 
-<p align="center"><a href="https://nrf.re.kr/"><img align="center" src="/images/NRFLogo.png" width="120" padding="10px"></a><a href="https://www.msit.go.kr/"><img align="center" src="/images/MSITLogo.png" width="120" padding="10px"></a><a href="https://aict.snu.ac.kr/"><img align="center" src="/images/AICTLogo.png" width="120" padding="10px"></a></p>
+<p align="center"><a href="https://nrf.re.kr/"><img align="center" src="/images/NRFLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.msit.go.kr/"><img align="center" src="/images/MSITLogo.png" style="width : 120px; margin : 10px"></a><a href="https://aict.snu.ac.kr/"><img align="center" src="/images/AICTLogo.png" style="width : 120px; margin : 10px"></a></p>
 
 ***
 ### Mar 16th, 2022
@@ -56,7 +56,7 @@ image:
 * We successfully organized [Computing4Human 2021](http://due.udn.vn/vi-vn/computing4human-intro/cid/4673) at Danang, Vietnam.
 <img width="700" src="/images/computing4human2020.PNG" padding="5px">
 
-<p align="center"><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" width="120" padding="10px"></a><a href="https://www.udn.vn/english"><img align="center" src="/images/UDNLogo.png" width="120" padding="10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" width="120" padding="10px"></a><a href="https://vnuis.edu.vn/en/"><img align="center" src="/images/VNUISLogo.png" width="120" padding="10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.png" width="120" padding="10px"></a></p>
+<p align="center"><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.udn.vn/english"><img align="center" src="/images/UDNLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" style="width : 120px; margin : 10px"></a><a href="https://vnuis.edu.vn/en/"><img align="center" src="/images/VNUISLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.png" style="width : 120px; margin : 10px"></a></p>
 
 ***
 <img align="right" width="100" src="/images/CUKLogo.png" padding="5px">
@@ -71,7 +71,7 @@ image:
 * We successfully organized [Computing4Human 2020](https://sites.google.com/view/computing4human/home) at Pohang, Rep. of Korea.
 <img width="700" src="/images/computing4human2021.PNG" padding="5px">
 
-<p align="center"><a href="https://postech.ac.kr/"><img align="center" src="/images/POSTECHLogo.png" width="120" padding="10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" width="120" padding="10px"></a></p>
+<p align="center"><a href="https://postech.ac.kr/"><img align="center" src="/images/POSTECHLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" style="width : 120px; margin : 10px"></a></p>
 
 
 
