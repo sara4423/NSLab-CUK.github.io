@@ -17,7 +17,7 @@ image:
 
 * We started a research project on "Multi-modal Transformer Model for Self-supervised Representation Learning of Dynamic Heterogeneous Networks," supported by the Basic Science Research Program through NRF of Korea and funded by MSIT of Korea (Jun 2022 -- Feb 2025, 132 Mil KRW). 
 
-<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/LabLogo.png" style="width : 130px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="https://nrf.re.kr/"><img align="center" src="/images/NRFLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.msit.go.kr/"><img align="center" src="/images/MSITLogo.png" style="width : 150px; margin : 10px"></a></p>
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/LabLogo.png" style="width : 125px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="https://nrf.re.kr/"><img align="center" src="/images/NRFLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.msit.go.kr/"><img align="center" src="/images/MSITLogo.png" style="width : 150px; margin : 10px"></a></p>
 
 ***
 ### May 15th, 2022
@@ -36,7 +36,7 @@ image:
 
 * We started participating in the Next-generation Intelligence-Type Semiconductor Development Program on "Development of ML-based multi scale simulation platform for designing and optimizing ReRAM crossbar array (CBA) circuits for AI semiconductors," supported by NRF of Korea and funded by MSIT of Korea (Apr 2022 -- Dec 2024, 550 Mil KRW), by cooperating with Dr. [Sungyeop Jung](https://sites.google.com/view/sungyeopjung) at Advanced Institute of Convergence Technology. 
 
-<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/LabLogo.png" style="width : 130px; margin : 10px"></a><a href="https://nrf.re.kr/"><img align="center" src="/images/NRFLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.msit.go.kr/"><img align="center" src="/images/MSITLogo.png" style="width : 150px; margin : 10px"></a><a href="https://aict.snu.ac.kr/"><img align="center" src="/images/AICTLogo.jpg" style="width : 120px; margin : 10px"></a></p>
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/LabLogo.png" style="width : 125px; margin : 10px"></a><a href="https://nrf.re.kr/"><img align="center" src="/images/NRFLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.msit.go.kr/"><img align="center" src="/images/MSITLogo.png" style="width : 150px; margin : 10px"></a><a href="https://aict.snu.ac.kr/"><img align="center" src="/images/AICTLogo.jpg" style="width : 120px; margin : 10px"></a></p>
 
 ***
 ### Mar 16th, 2022
@@ -66,11 +66,11 @@ image:
 <p align="center"><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.udn.vn/english"><img align="center" src="/images/UDNLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" style="width : 120px; margin : 10px"></a><a href="https://vnuis.edu.vn/en/"><img align="center" src="/images/VNUISLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.png" style="width : 120px; margin : 10px"></a></p>
 
 ***
-<img align="right" width="100" src="/images/CUKLogo.png" padding="5px">
-
 ### Sep 1st, 2021
 
 * We started an intramural research project on "Research Team Formation based on Bibliographic Network Embedding," funded by [The Catholic University of Korea](https://catholic.ac.kr/) (Sep 2021 -- Aug 2022, 7 Mil KRW).
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/LabLogo.png" style="width : 125px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a></p>
 
 ***
 ### Feb 15th, 2020
