@@ -13,6 +13,12 @@ image:
 <p align="center"><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.udn.vn/english"><img align="center" src="/images/UDNLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" style="width : 120px; margin : 10px"></a><a href="https://vnuis.edu.vn/en/"><img align="center" src="/images/VNUISLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.png" style="width : 120px; margin : 10px"></a></p>
 
 ***
+### Jun 1st, 2022
+<a href="https://nrf.re.kr/"><img align="right" src="/images/NRFLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.msit.go.kr/"><img align="right" src="/images/MSITLogo.png" style="width : 120px; margin : 10px"></a>
+
+* We started participating in the Next-generation Intelligence-Type Semiconductor Development Program on "Development of ML-based multi scale simulation platform for designing and optimizing ReRAM crossbar array (CBA) circuits for AI semiconductors," supported by NRF of Korea and funded by MSIT of Korea (Apr 2022 -- Dec 2024, 550 Mil KRW), by cooperating with Dr. [Sungyeop Jung](https://sites.google.com/view/sungyeopjung) at Advanced Institute of Convergence Technology. 
+
+***
 ### May 15th, 2022
 
 <img width="500" height="500" src="/images/20220513.jpg" padding="5px">
