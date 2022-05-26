@@ -51,11 +51,11 @@ image:
 * We started an industry-academic cooperation project on "Development of Veterinary Information Services based on Chatbot," funded by [IntoCNS Co., Ltd.](http://intoh.monoalliance.com/) (Feb 2022 -- Oct 2022, 150 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/) and his team.
 
 ***
-<img align="right" width="100" src="/images/OrderQueenLogo.png" padding="5px">
-
 ### Jan 26th, 2022
 
 * We started an industry-academic cooperation project on "Chatbot-based Kiosk Interface and Menu Recommendation System," funded by [Order Queen Co., Ltd.](http://www.orderqueen.co.kr/) (Feb 2022 -- Apr 2022, 10 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/) and his team.
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/LabLogo.png" style="width : 125px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="http://www.orderqueen.co.kr/"><img align="center" src="/images/OrderQueenLogo.png" style="width : 100px; margin : 10px"></a></p>
 
 ***
 ### Oct 27th -- 28th, 2021
