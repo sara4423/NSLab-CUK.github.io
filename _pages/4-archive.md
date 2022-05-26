@@ -17,7 +17,7 @@ image:
 
 * We started a research project on "Multi-modal Transformer Model for Self-supervised Representation Learning of Dynamic Heterogeneous Networks," supported by the Basic Science Research Program through NRF of Korea and funded by MSIT of Korea (Jun 2022 -- Feb 2025, 132 Mil KRW). 
 
-<p align="center"><a href="https://nrf.re.kr/"><img align="center" src="/images/NRFLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.msit.go.kr/"><img align="center" src="/images/MSITLogo.png" style="width : 180px; margin : 10px"></a></p>
+<p align="center"><a href="https://nrf.re.kr/"><img align="center" src="/images/NRFLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.msit.go.kr/"><img align="center" src="/images/MSITLogo.png" style="width : 200px; margin : 10px"></a></p>
 
 ***
 ### May 15th, 2022
