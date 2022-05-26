@@ -15,25 +15,7 @@ image:
 ***
 ### Jun 1st, 2022
 
-<div class="my-3" style="padding-top: 40px">
-  <div class="card border-primary">
-    <div class="row card-body">
-      <div class="col-sm my-3"> <!-- div A -->
-        <h3 class="card-title"><b>AngelPlayer</b></h3>
-        <p>
-          <br>
-            * We started participating in the Next-generation Intelligence-Type Semiconductor Development Program on "Development of ML-based multi scale simulation platform for designing and optimizing ReRAM crossbar array (CBA) circuits for AI semiconductors," supported by NRF of Korea and funded by MSIT of Korea (Apr 2022 -- Dec 2024, 550 Mil KRW), by cooperating with Dr. [Sungyeop Jung](https://sites.google.com/view/sungyeopjung) at Advanced Institute of Convergence Technology. 
-          <br>
-        </p>
-      </div>
-      <div class="col-sm my-3"> <!-- div B -->
-        <a href="https://nrf.re.kr/"><img align="right" src="/images/NRFLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.msit.go.kr/"><img align="right" src="/images/MSITLogo.png" style="width : 120px; margin : 10px"></a>
-      </div>
-    </div>
-  </div>
-</div>
-
-<p align="right"><a href="https://nrf.re.kr/"><img align="right" src="/images/NRFLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.msit.go.kr/"><img align="right" src="/images/MSITLogo.png" style="width : 120px; margin : 10px"></a></p>
+<p align="right"><a href="https://www.msit.go.kr/"><img align="right" src="/images/MSITLogo.png" style="width : 120px; margin : 10px"></a><a href="https://nrf.re.kr/"><img align="right" src="/images/NRFLogo.png" style="width : 120px; margin : 10px"></a></p>
 
 * We started participating in the Next-generation Intelligence-Type Semiconductor Development Program on "Development of ML-based multi scale simulation platform for designing and optimizing ReRAM crossbar array (CBA) circuits for AI semiconductors," supported by NRF of Korea and funded by MSIT of Korea (Apr 2022 -- Dec 2024, 550 Mil KRW), by cooperating with Dr. [Sungyeop Jung](https://sites.google.com/view/sungyeopjung) at Advanced Institute of Convergence Technology. 
 
