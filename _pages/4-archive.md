@@ -48,7 +48,7 @@ image:
 
 * We started an industry-academic cooperation project on "Development of Veterinary Information Services based on Chatbot," funded by [IntoCNS Co., Ltd.](http://intoh.monoalliance.com/) (Feb 2022 -- Oct 2022, 150 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/) and his team.
 
-<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/LabLogo.png" style="width : 125px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="http://intoh.monoalliance.com/"><img align="center" src="/images/IntoCNSLogo.jpg" style="width : 150px; margin : 10px"></a></p>
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/LabLogo.png" style="width : 125px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="http://intoh.monoalliance.com/"><img align="center" src="/images/IntoCNSLogo.jpg" style="width : 135px; margin : 10px"></a></p>
 
 ***
 ### Jan 26th, 2022
