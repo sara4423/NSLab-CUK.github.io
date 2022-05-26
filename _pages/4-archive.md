@@ -17,7 +17,7 @@ image:
 
 * We started a research project on "Multi-modal Transformer Model for Self-supervised Representation Learning of Dynamic Heterogeneous Networks," supported by the Basic Science Research Program through NRF of Korea and funded by MSIT of Korea (Jun 2022 -- Feb 2025, 132 Mil KRW). 
 
-<p align="center"><a href="https://nrf.re.kr/"><img align="center" src="/images/NRFLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.msit.go.kr/"><img align="center" src="/images/MSITLogo.png" style="width : 150px; margin : 10px"></a></p>
+<p align="center"><a href="https://nrf.re.kr/"><img align="center" src="/images/NRFLogo.png" style="width : 110px; margin : 10px"></a><a href="https://www.msit.go.kr/"><img align="center" src="/images/MSITLogo.png" style="width : 150px; margin : 10px"></a></p>
 
 ***
 ### May 15th, 2022
@@ -36,7 +36,7 @@ image:
 
 * We started participating in the Next-generation Intelligence-Type Semiconductor Development Program on "Development of ML-based multi scale simulation platform for designing and optimizing ReRAM crossbar array (CBA) circuits for AI semiconductors," supported by NRF of Korea and funded by MSIT of Korea (Apr 2022 -- Dec 2024, 550 Mil KRW), by cooperating with Dr. [Sungyeop Jung](https://sites.google.com/view/sungyeopjung) at Advanced Institute of Convergence Technology. 
 
-<p align="center"><a href="https://nrf.re.kr/"><img align="center" src="/images/NRFLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.msit.go.kr/"><img align="center" src="/images/MSITLogo.png" style="width : 150px; margin : 10px"></a><a href="https://aict.snu.ac.kr/"><img align="center" src="/images/AICTLogo.jpg" style="width : 150px; margin : 10px"></a></p>
+<p align="center"><a href="https://nrf.re.kr/"><img align="center" src="/images/NRFLogo.png" style="width : 110px; margin : 10px"></a><a href="https://www.msit.go.kr/"><img align="center" src="/images/MSITLogo.png" style="width : 150px; margin : 10px"></a><a href="https://aict.snu.ac.kr/"><img align="center" src="/images/AICTLogo.jpg" style="width : 140px; margin : 10px"></a></p>
 
 ***
 ### Mar 16th, 2022
