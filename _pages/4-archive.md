@@ -39,6 +39,11 @@ image:
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/LabLogo.png" style="width : 125px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="http://www.orderqueen.co.kr/"><img align="center" src="/images/OrderQueenLogo.png" style="width : 100px; margin : 10px"></a></p>
 
 ***
+### Apr 20th, 2022
+
+* [Yeongmin Kim](https://nslab-cuk.github.io/member/ymkim) has joined as an undergraduate researcher. 
+
+***
 ### Apr 1st, 2022
 
 * We started participating in the Next-generation Intelligence-Type Semiconductor Development Program on "Development of ML-based multi scale simulation platform for designing and optimizing ReRAM crossbar array (CBA) circuits for AI semiconductors," supported by NRF of Korea and funded by MSIT of Korea (Apr 2022 -- Dec 2024, 550 Mil KRW), by cooperating with Dr. [Sungyeop Jung](https://sites.google.com/view/sungyeopjung) at Advanced Institute of Convergence Technology. 
@@ -63,6 +68,26 @@ image:
 * We started an industry-academic cooperation project on "Chatbot-based Kiosk Interface and Menu Recommendation System," funded by [Order Queen Co., Ltd.](http://www.orderqueen.co.kr/) (Feb 2022 -- Apr 2022, 10 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/) and his team.
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/LabLogo.png" style="width : 125px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="http://www.orderqueen.co.kr/"><img align="center" src="/images/OrderQueenLogo.png" style="width : 100px; margin : 10px"></a></p>
+
+***
+### Jan 4th, 2022
+
+* Se Eun Cho has joined as an undergraduate researcher. 
+
+***
+### Dec 15th, 2021
+
+* [Jiyoon Song](https://nslab-cuk.github.io/member/jysong) has joined as an undergraduate researcher. 
+
+***
+### Dec 3rd, 2021
+
+* Hyebin Ahn has joined as an undergraduate researcher. 
+
+***
+### Nov 11th, 2021
+
+* [Jooho Lee](https://nslab-cuk.github.io/member/jhlee) has joined as an undergraduate researcher. 
 
 ***
 ### Oct 27th -- 28th, 2021
