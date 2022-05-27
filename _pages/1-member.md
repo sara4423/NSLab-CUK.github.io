@@ -76,15 +76,15 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 # Alumni
 ***
 
-### Ph.D.
+#### Ph.D.
 
 * TBA
 
-### M.Eng.
+#### M.Eng.
 
 * TBA
 
-### B.Eng.
+#### B.Eng.
 
 * TBA
 
