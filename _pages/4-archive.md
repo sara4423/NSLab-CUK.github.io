@@ -34,7 +34,7 @@ image:
 ***
 ### May 13th, 2022
 
-* We successfully finished the industry-academic cooperation project on "Chatbot-based Kiosk Interface and Menu Recommendation System," funded by [Order Queen Co., Ltd.](http://www.orderqueen.co.kr/) (Feb 2022 -- Apr 2022, 10 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/) and his team.
+* We successfully finished a final result presentation of the industry-academic cooperation project on "Chatbot-based Kiosk Interface and Menu Recommendation System," funded by [Order Queen Co., Ltd.](http://www.orderqueen.co.kr/) (Feb 2022 -- Apr 2022, 10 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/) and his team.
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/LabLogo.png" style="width : 125px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="http://www.orderqueen.co.kr/"><img align="center" src="/images/OrderQueenLogo.png" style="width : 100px; margin : 10px"></a></p>
 
