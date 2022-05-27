@@ -64,7 +64,7 @@ toc_label: "Table of Contents"
 ### Solar Irradiance Forecasting
 
 <div id="inline" align="center">
-  <img align="center" width="350" src="/images/SolarStations_Small.png" alt="absolute" padding="10px">
+  <img align="center" width="700" src="/images/SolarStations_Small.png" alt="absolute" padding="10px">
 </div>
 
 * TBA
