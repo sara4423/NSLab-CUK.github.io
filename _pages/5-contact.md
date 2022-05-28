@@ -18,7 +18,7 @@ image: CUK.jpg
 ***
 ### E-mail Addresses
 
-* [![E-mail](https://img.shields.io/badge/Official-nslab.ai.cuk@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=0C2E86)](mailto:nslab.ai.cuk@gmail.com)
+* [![E-mail](https://img.shields.io/badge/Official-nslab.ai.cuk@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=white)](mailto:nslab.ai.cuk@gmail.com)
 * [![E-mail](https://img.shields.io/badge/Director-ojlee@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail)](mailto:ojlee@catholic.ac.kr)
 * [![E-mail](https://img.shields.io/badge/Lab%20Rep-sarasong4423@gmail.com-0C2E86?style=flat-square&logo=Gmail)](mailto:sarasong4423@gmail.com)
 
