@@ -20,13 +20,13 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 * Sep 2019 -- Aug 2021: Full-time Researcher, Future IT Innovation Laboratory, Pohang University of Science and Technology (POSTECH), Pohang, Korea
 
 ***
-# Post-Doctoral Research Fellow
+# Post-Doctoral Researchers
 ***
 
 * TBA
 
 ***
-# Researcher
+# Researchers
 ***
 
 ###### Thuy Hoang Van
@@ -39,7 +39,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 * Sep 2022 (Expected) -- Present: MS/Ph.D. Combined Course, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
 
 ***
-# Undergraduate Research Assistant
+# Undergraduate Research Assistants
 ***
 
 ###### [Jiyoon Song](https://nslab-cuk.github.io/member/jysong) (Lab Representative)
