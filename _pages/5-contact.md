@@ -9,7 +9,7 @@ image: CUK.jpg
 ### Addresses
 
 * The Catholic University of Korea, 43, Jibong-ro, Bucheon-si, Gyeonggi-do 14662, Republic of Korea
- * [![Map](https://img.shields.io/badge/Director-Michael%20Hall%20T404-0C2E86?style=flat-square&logo=Google Maps&logoColor=white)](mailto:nslab.ai.cuk@gmail.com)
+ * [![Map](https://img.shields.io/badge/Director-Michael%20Hall%20T404-0C2E86?style=flat-square&logo=GoogleMaps&logoColor=white)](mailto:nslab.ai.cuk@gmail.com)
  * Director's office: Michael Hall T404, 
  * Laboratories: Sophie Barat Hall B348 & B349, The Catholic University of Korea, 43, Jibong-ro, Bucheon-si, Gyeonggi-do 14662, Republic of Korea
 
