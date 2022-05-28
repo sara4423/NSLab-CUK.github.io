@@ -9,7 +9,7 @@ image: CUK.jpg
 ### Addresses
 
 * The Catholic University of Korea, 43, Jibong-ro, Bucheon-si, Gyeonggi-do 14662, Republic of Korea
- * [![Map](https://img.shields.io/badge/Director-Michael%20Hall%20T404-0C2E86?style=flat-square&logo=GoogleMaps&logoColor=white)](mailto:nslab.ai.cuk@gmail.com)
+ * [![Map](https://img.shields.io/badge/Director-Michael%20Hall%20T404-0C2E86?style=flat-square&logo=GoogleMaps&logoColor=white)](https://goo.gl/maps/2W2nVL7KKWWMnWq89)
  * [![Map](https://img.shields.io/badge/Lab%20%231-Sophie%20Barat%20Hall%20B348-0C2E86?style=flat-square&logo=GoogleMaps&logoColor=white)](https://goo.gl/maps/QN3KLhGJC1RYcnNH6)
  * [![Map](https://img.shields.io/badge/Lab%20%232-Sophie%20Barat%20Hall%20B349-0C2E86?style=flat-square&logo=GoogleMaps&logoColor=white)](https://goo.gl/maps/QN3KLhGJC1RYcnNH6)
 
