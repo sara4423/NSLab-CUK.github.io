@@ -8,7 +8,7 @@ toc_sticky: true
 toc_label: "Table of Contents"
 ---
 
-<h5>"Table of Contents"</h5>
+<h5>Table of Contents</h5>
 * TOC
 {:toc}
 
