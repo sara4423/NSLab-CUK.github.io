@@ -29,7 +29,7 @@ image:
 ***
 #### May 15th, 2022
 
-<p align="center"><img width="500" height="500" src="/images/20220513.jpg" margin="10px"></p>
+<p align="center"><img width="600" height="600" src="/images/20220513.jpg" margin="10px"></p>
 
 ***
 #### May 13th, 2022
@@ -53,7 +53,7 @@ image:
 ***
 #### Mar 16th, 2022
 
-<p align="center"><img width="500" height="500" src="/images/20220316.jpg" margin="10px"></p>
+<p align="center"><img width="600" height="600" src="/images/20220316.jpg" margin="10px"></p>
 
 ***
 #### Feb 7th, 2022
