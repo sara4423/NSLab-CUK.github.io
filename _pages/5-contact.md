@@ -16,9 +16,9 @@ image: CUK.jpg
 </div>
 
 ***
-### Email Addresses
+### E-mail Addresses
 
-* Official: [nslab.ai.cuk@gmail.com](mailto:nslab.ai.cuk@gmail.com)
+* Official: [nslab.ai.cuk@gmail.com](mailto:nslab.ai.cuk@gmail.com) [![GitHub](https://img.shields.io/badge/E--mail-nslab.ai.cuk@gmail.com-EA4335?style=flat-square&logo=Gmail)](mailto:nslab.ai.cuk@gmail.com)
 * Director: [ojlee@catholic.ac.kr](mailto:ojlee@catholic.ac.kr)
 * Lab Rep.: [sarasong4423@gmail.com](mailto:sarasong4423@gmail.com)
 
