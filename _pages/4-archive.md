@@ -129,7 +129,7 @@ image:
 ##### Sep 1st, 2021
 {:.no_toc}
 
-* Network Science Lab, CUK has been founded, as Prof. O-Joun Lee has been appointed as an assistant professor.
+* Network Science Lab, CUK has been founded.
 * We started an intramural research project on "Research Team Formation based on Bibliographic Network Embedding," funded by [The Catholic University of Korea](https://catholic.ac.kr/) (Sep 2021 -- Aug 2022, 7 Mil KRW).
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/LabLogo.png" style="width : 125px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a></p>
