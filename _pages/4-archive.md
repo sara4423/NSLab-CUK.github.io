@@ -29,7 +29,7 @@ image:
 ***
 #### May 15th, 2022
 
-<img width="500" height="500" src="/images/20220513.jpg" margin="10px">
+<p align="center"><img width="500" height="500" src="/images/20220513.jpg" margin="10px"></p>
 
 ***
 #### May 13th, 2022
@@ -53,7 +53,7 @@ image:
 ***
 #### Mar 16th, 2022
 
-<img width="500" height="500" src="/images/20220316.jpg" margin="10px">
+<p align="center"><img width="500" height="500" src="/images/20220316.jpg" margin="10px"></p>
 
 ***
 #### Feb 7th, 2022
@@ -93,7 +93,7 @@ image:
 #### Oct 27th -- 28th, 2021
 
 * We successfully organized [Computing4Human 2021](http://due.udn.vn/vi-vn/computing4human-intro/cid/4673) at Danang, Vietnam.
-<img width="700" src="/images/computing4human2020.PNG" padding="5px">
+<p align="center"><img width="700" src="/images/computing4human2020.PNG" padding="5px"></p>
 
 <p align="center"><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.udn.vn/english"><img align="center" src="/images/UDNLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" style="width : 120px; margin : 10px"></a><a href="https://vnuis.edu.vn/en/"><img align="center" src="/images/VNUISLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.png" style="width : 120px; margin : 10px"></a></p>
 
@@ -108,7 +108,7 @@ image:
 #### Feb 15th, 2020
 
 * We successfully organized [Computing4Human 2020](https://sites.google.com/view/computing4human/home) at Pohang, Rep. of Korea.
-<img width="700" src="/images/computing4human2021.PNG" padding="5px">
+<p align="center"><img width="700" src="/images/computing4human2021.PNG" padding="5px"></p>
 
 <p align="center"><a href="https://postech.ac.kr/"><img align="center" src="/images/POSTECHLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" style="width : 120px; margin : 10px"></a></p>
 
