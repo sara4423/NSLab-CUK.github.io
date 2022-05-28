@@ -24,7 +24,7 @@ Our team is recruiting new members who have fashion and enthusiasm for artificia
 </div>
 
 ***
-### Email Addresses
+### E-mail Addresses
 
 * [![E-mail](https://img.shields.io/badge/Official-nslab.ai.cuk@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=white)](mailto:nslab.ai.cuk@gmail.com)
 * [![E-mail](https://img.shields.io/badge/Director-ojlee@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=white)](mailto:ojlee@catholic.ac.kr)
