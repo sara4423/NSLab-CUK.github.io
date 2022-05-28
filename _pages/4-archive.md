@@ -135,7 +135,8 @@ image:
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/LabLogo.png" style="width : 125px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a></p>
 
 ***
-#### H1 2020
+#### Before then
+{:.no_toc}
 
 ***
 ##### Feb 15th, 2020
