@@ -18,8 +18,8 @@ image: CUK.jpg
 ***
 ### E-mail Addresses
 
-* Official: [nslab.ai.cuk@gmail.com](mailto:nslab.ai.cuk@gmail.com) [![GitHub](https://img.shields.io/badge/E--mail-nslab.ai.cuk@gmail.com-EA4335?style=flat-square&logo=Gmail)](mailto:nslab.ai.cuk@gmail.com)
-* Director: [ojlee@catholic.ac.kr](mailto:ojlee@catholic.ac.kr)
-* Lab Rep.: [sarasong4423@gmail.com](mailto:sarasong4423@gmail.com)
+* Official: [![E-mail](https://img.shields.io/badge/E--mail-nslab.ai.cuk@gmail.com-EA4335?style=flat-square&logo=Gmail)](mailto:nslab.ai.cuk@gmail.com)
+* Director: [![E-mail](https://img.shields.io/badge/E--mail-ojlee@catholic.ac.kr-EA4335?style=flat-square&logo=Gmail)](mailto:ojlee@catholic.ac.kr)
+* Lab Rep.: [![E-mail](https://img.shields.io/badge/E--mail-sarasong4423@gmail.com-EA4335?style=flat-square&logo=Gmail)](mailto:sarasong4423@gmail.com)
 
 ***
