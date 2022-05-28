@@ -62,6 +62,22 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 * Research Interest: Multi-modal Representation Learning
 
 ***
+# Alumni
+***
+
+#### Ph.D.
+
+* TBA
+
+#### M.Eng.
+
+* TBA
+
+#### B.Eng.
+
+* TBA
+
+***
 # Collaborators
 ***
 
@@ -78,21 +94,6 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 * Dr. Phuong-Mai Nguyen, International School, Vietnam National University, Hanoi, Vietnam
 * Dr. [Min Gon Kim](https://sites.google.com/view/mingonk), Carnegie Mellon University, Pittsburgh, PA, USA
 
-***
-# Alumni
-***
-
-#### Ph.D.
-
-* TBA
-
-#### M.Eng.
-
-* TBA
-
-#### B.Eng.
-
-* TBA
 
 
 
