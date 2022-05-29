@@ -10,7 +10,7 @@ image:
 {:toc}
 
 ***
-#### H2 2022
+### H2 2022
 
 ***
 ##### Dec 16th -- 17th, 2022
@@ -21,7 +21,7 @@ image:
 <p align="center"><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.udn.vn/english"><img align="center" src="/images/UDNLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" style="width : 120px; margin : 10px"></a><a href="https://vnuis.edu.vn/en/"><img align="center" src="/images/VNUISLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.png" style="width : 120px; margin : 10px"></a></p>
 
 ***
-#### H1 2022
+### H1 2022
 
 ***
 ##### Jun 1st, 2022
@@ -96,7 +96,7 @@ image:
 * Se Eun Cho has joined as an undergraduate researcher. 
 
 ***
-#### H2 2021
+### H2 2021
 
 ***
 ##### Dec 15th, 2021
@@ -135,7 +135,7 @@ image:
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/LabLogo.png" style="width : 125px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a></p>
 
 ***
-#### Before then
+### Before then
 {:.no_toc}
 
 ***
