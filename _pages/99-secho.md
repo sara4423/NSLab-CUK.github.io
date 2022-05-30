@@ -15,5 +15,6 @@ Research Experience
 
 Education
 ============
-* Mar 2021 – Present: The Catholic University of Korea, Bucheon, Gyeonggi-do, Republic of Korea <br> Bachelor of Engineering, Dept. of Economics
+* Mar 2021 – Present: The Catholic University of Korea, Bucheon, Gyeonggi-do, Republic of Korea <br> Bachelor of Economics, Dept. of Economics
+
 ***
