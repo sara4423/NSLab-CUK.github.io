@@ -54,7 +54,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 * Dec 2021 -- Present: Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
 * Research Interest: Multi-modal Representation Learning
 
-<img align="left" src="/images/secho.jpg" style="width : 90px; height : 120px; margin : 10px">
+<img align="left" src="/images/secho.jpg" style="width : 90px; height : 120px; margin : 8px">
 ###### [Se Eun Cho](https://nslab-cuk.github.io/member/secho)
 * Jan 2022 -- Present: Dept. of Economics, The Catholic University of Korea, Bucheon, Korea
 * Research Interest: Knowledge Graph Embedding
