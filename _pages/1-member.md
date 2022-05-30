@@ -53,7 +53,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 
 ###### [Jooho Lee](https://nslab-cuk.github.io/member/jhlee) 
 
-<img align="left" src="/images/hbahn.jpg" style="width : 100px; margin-right : 25px">
+<img align="left" src="/images/jhlee.jpg" style="width : 100px; margin-right : 25px">
 
 * Nov 2021 -- Present: School of Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea
 * Research Interest: Network Representation Learning
