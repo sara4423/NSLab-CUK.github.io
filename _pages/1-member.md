@@ -43,6 +43,9 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 ***
 
 ###### [Jiyoon Song](https://nslab-cuk.github.io/member/jysong) (Lab Representative)
+
+<img align="left" src="/images/jysong.jpg" style="width : 100px; height : 120px; margin : 10px">
+
 * Dec 2021 -- Present: Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
 * Research Interest: Medical Knowledge Graph
 
