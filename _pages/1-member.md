@@ -70,7 +70,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/hbahn.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/hbahn.png"/></td>  
 		<td><ul>
 			<li>Dec 2021 -- Present: Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Research Interest: Multi-modal Representation Learning</li>
