@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Seeun Cho"
+title: "Se Eun Cho"
 permalink: /member/secho
 image: 
 ---
