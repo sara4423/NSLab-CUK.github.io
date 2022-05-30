@@ -61,12 +61,13 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 
 ###### [Se Eun Cho](https://nslab-cuk.github.io/member/secho)
 
-<img align="left" src="/images/secho.jpg" style="width : 100px; height : 120px; margin : 10px">
+<img align="left" src="/images/secho.jpg" style="width : 90px; height : 110px; margin : 10px">
 
 
   * Jan 2022 -- Present: Dept. of Economics, The Catholic University of Korea, Bucheon, Korea
   * Research Interest: Knowledge Graph Embedding
 
+* TBA
 * TBA
 
 ###### [Yeongmin Kim](https://nslab-cuk.github.io/member/ymkim) 
