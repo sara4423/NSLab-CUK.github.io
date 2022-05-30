@@ -21,5 +21,5 @@ Education
 
 Projects
 ============
-* Order Queen - Chatbot-based Kiosk Interface and Menu Recommendation System 
+* [Order Queen](http://www.orderqueen.co.kr/) - Chatbot-based Kiosk Interface and Menu Recommendation System 
 * February 2022 ~ April 2022
