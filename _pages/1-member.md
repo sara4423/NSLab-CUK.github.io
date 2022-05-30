@@ -12,14 +12,9 @@ image:
 
 #### Prof. [O-Joun Lee](https://nslab-cuk.github.io/member/ojlee)
 
-<table border="0" vertical-align="top">  
-	<tr>
-		<td width="200"><img align="left" width="180px" src="/images/ojlee4.JPG"/></td>  
-		<td>
-			O-Joun Lee has been an assistant professor at the Catholic University of Korea, Rep. of Korea, since September 2021. He received his Ph.D. degree in Computer Science and Engineering from Chung-Ang University in 2019. He also received B.Eng. degree in Software Science from Dankook University in 2015. Also, he was a full-time researcher at Pohang University of Science and Technology, Rep. of Korea, from September 2019 to August 2021. His research topics are networked data analysis based on unsupervised/self-supervised representation learning and graph convolutional networks. He has applied the networked data analysis models and methods to various unstructured data, such as social media, bibliographic data, medical knowledge base, traffic flow data, etc.
-		</td>
-	</tr>
-</table>
+<img align="left" src="/images/ojlee4.JPG" style="width : 180px; height : 240px; margin : 10px">
+
+O-Joun Lee has been an assistant professor at the Catholic University of Korea, Rep. of Korea, since September 2021. He received his Ph.D. degree in Computer Science and Engineering from Chung-Ang University in 2019. He also received B.Eng. degree in Software Science from Dankook University in 2015. Also, he was a full-time researcher at Pohang University of Science and Technology, Rep. of Korea, from September 2019 to August 2021. His research topics are networked data analysis based on unsupervised/self-supervised representation learning and graph convolutional networks. He has applied the networked data analysis models and methods to various unstructured data, such as social media, bibliographic data, medical knowledge base, traffic flow data, etc.
 
 * Sep 2021 -- Present: Assistant Professor, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
 * Sep 2019 -- Aug 2021: Full-time Researcher, Future IT Innovation Laboratory, Pohang University of Science and Technology (POSTECH), Pohang, Korea
