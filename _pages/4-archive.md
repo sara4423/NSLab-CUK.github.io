@@ -93,7 +93,7 @@ image:
 ##### Jan 4th, 2022
 {:.no_toc}
 
-* Se Eun Cho has joined as an undergraduate researcher. 
+* [Se Eun Cho](https://nslab-cuk.github.io/member/secho) has joined as an undergraduate researcher. 
 
 ***
 ### H2 2021
