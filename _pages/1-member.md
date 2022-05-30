@@ -50,6 +50,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 * Research Interest: Medical Knowledge Graph
 
 <br>
+<br>
 
 ###### [Jooho Lee](https://nslab-cuk.github.io/member/jhlee) 
 
@@ -58,7 +59,6 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 * Nov 2021 -- Present: School of Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea
 * Research Interest: Network Representation Learning
 
-<br>
 <br>
 
 ###### Hyebin Ahn
