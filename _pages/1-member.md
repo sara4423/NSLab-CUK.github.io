@@ -57,7 +57,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 
 ###### Hyebin Ahn
 
-<img align="left" src="/images/hbahn.png" style="width : 100px; margin-right : 25px">
+<img align="left" src="/images/hbahn.jpg" style="width : 100px; margin-right : 25px">
 
 * Dec 2021 -- Present: Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
 * Research Interest: Multi-modal Representation Learning
