@@ -46,7 +46,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" src="https://nslab-cuk.github.io/images/jysong.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/jysong.jpg"/></td>  
 		<td><ul>
 			<li>Dec 2021 -- Present: Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Research Interest: Medical Knowledge Graph</li>
@@ -58,7 +58,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" src="https://nslab-cuk.github.io/images/jhlee.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/jhlee.jpg"/></td>  
 		<td><ul>
 			<li>Nov 2021 -- Present: School of Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Research Interest: Network Representation Learning</li>
@@ -70,7 +70,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" src="https://nslab-cuk.github.io/images/hbahn.png"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/hbahn.jpg"/></td>  
 		<td><ul>
 			<li>Dec 2021 -- Present: Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Research Interest: Multi-modal Representation Learning</li>
@@ -82,7 +82,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" src="https://nslab-cuk.github.io/images/secho.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/secho.jpg"/></td>  
 		<td><ul>
 			<li>Jan 2022 -- Present: Dept. of Economics, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Research Interest: Knowledge Graph Embedding</li>
