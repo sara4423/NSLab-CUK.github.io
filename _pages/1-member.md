@@ -14,7 +14,7 @@ image:
 
 <table border="0" vertical-align="top">  
 	<tr>
-		<td width="200"><img align="left" width="180px" src="https://nslab-cuk.github.io/images/ojlee4.jpg"/></td>  
+		<td width="200"><img align="left" width="180px" src="/images/ojlee4.jpg"/></td>  
 		<td>
 			O-Joun Lee has been an assistant professor at the Catholic University of Korea, Rep. of Korea, since September 2021. He received his Ph.D. degree in Computer Science and Engineering from Chung-Ang University in 2019. He also received B.Eng. degree in Software Science from Dankook University in 2015. Also, he was a full-time researcher at Pohang University of Science and Technology, Rep. of Korea, from September 2019 to August 2021. His research topics are networked data analysis based on unsupervised/self-supervised representation learning and graph convolutional networks. He has applied the networked data analysis models and methods to various unstructured data, such as social media, bibliographic data, medical knowledge base, traffic flow data, etc.
 		</td>
@@ -75,7 +75,7 @@ image:
 
 <table border="0" vertical-align="top">  
 	<tr>
-		<td width="120"><img align="left" width="100px" src="https://nslab-cuk.github.io/images/hbahn.jpg"/></td>  
+		<td width="120"><img align="left" width="100px" src="/images/hbahn.jpg"/></td>  
 		<td><ul>
 			<li>Dec 2021 -- Present: Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Research Interest: Multi-modal Representation Learning</li>
