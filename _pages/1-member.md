@@ -51,8 +51,10 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 * Research Interest: Network Representation Learning
 
 ###### Hyebin Ahn
-* Dec 2021 -- Present: Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
-* Research Interest: Multi-modal Representation Learning
+<img align="left" src="/images/hbahn.jpg" style="width : 90px; height : 120px; margin : 10px">
+
+ * Dec 2021 -- Present: Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
+ * Research Interest: Multi-modal Representation Learning
 
 ###### [Se Eun Cho](https://nslab-cuk.github.io/member/secho)
 <img align="left" src="/images/secho.jpg" style="width : 90px; height : 120px; margin : 10px">
