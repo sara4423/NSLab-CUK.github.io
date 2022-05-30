@@ -9,18 +9,22 @@ image:
 
 Research Experience
 ============
-* Jan 2022 – Present: Undergraduate Researcher, Network Science Lab., The Catholic University of Korea, Bucheon, Gyeonggi-do, Republic of Korea
+* Jan 2022 -- Present: Undergraduate Researcher, Network Science Lab., The Catholic University of Korea, Bucheon, Gyeonggi-do, Republic of Korea
 
 ***
 
 Education
 ============
-* Mar 2021 – Present: The Catholic University of Korea, Bucheon, Gyeonggi-do, Republic of Korea <br> Bachelor of Economics, Dept. of Economics
+* Mar 2021 -- Present: The Catholic University of Korea, Bucheon, Gyeonggi-do, Republic of Korea <br> Bachelor of Economics, Dept. of Economics
 
 ***
 
 Projects
 ============
-[Order Queen](http://www.orderqueen.co.kr/) - Chatbot-based Kiosk Interface and Menu Recommendation System 
-<bar>
-  February 2022 ~ April 2022
+
+Participant
+------------
+* Industry-Academic Cooperation Project, "**Chatbot-based Kiosk Interface and Menu Recommendation System**," [Order Queen Co., Ltd.](http://www.orderqueen.co.kr/), Feb 2022 -- Apr 2022
+	* TBA
+
+
