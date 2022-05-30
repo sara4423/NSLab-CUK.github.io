@@ -44,8 +44,8 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 
 ###### [Jiyoon Song](https://nslab-cuk.github.io/member/jysong) (Lab Representative)
 
-<table border="0" vertical-align="top">  
-	<tr>
+<table border="0">  
+	<tr valign="top">
 		<td width="120"><img align="left" width="100px" src="https://nslab-cuk.github.io/images/jysong.jpg"/></td>  
 		<td><ul>
 			<li>Dec 2021 -- Present: Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>		
@@ -56,8 +56,8 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 
 ###### [Jooho Lee](https://nslab-cuk.github.io/member/jhlee) 
 
-<table border="0" vertical-align="top">  
-	<tr>
+<table border="0">  
+	<tr valign="top">
 		<td width="120"><img align="left" width="100px" src="https://nslab-cuk.github.io/images/jhlee.jpg"/></td>  
 		<td><ul>
 			<li>Nov 2021 -- Present: School of Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea</li>		
@@ -68,9 +68,9 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 
 ###### Hyebin Ahn
 
-<table border="0" vertical-align="top">  
-	<tr>
-		<td width="120"><img align="left" width="100px" src="/images/hbahn.jpg"/></td>  
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" src="https://nslab-cuk.github.io/images/hbahn.jpg"/></td>  
 		<td><ul>
 			<li>Dec 2021 -- Present: Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Research Interest: Multi-modal Representation Learning</li>
@@ -80,8 +80,8 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 
 ###### [Se Eun Cho](https://nslab-cuk.github.io/member/secho)
 
-<table border="0" vertical-align="top">  
-	<tr>
+<table border="0">  
+	<tr valign="top">
 		<td width="120"><img align="left" width="100px" src="https://nslab-cuk.github.io/images/secho.jpg"/></td>  
 		<td><ul>
 			<li>Jan 2022 -- Present: Dept. of Economics, The Catholic University of Korea, Bucheon, Korea</li>		
