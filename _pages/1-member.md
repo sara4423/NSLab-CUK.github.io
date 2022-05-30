@@ -58,6 +58,8 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 * Nov 2021 -- Present: School of Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea
 * Research Interest: Network Representation Learning
 
+<br>
+
 ###### Hyebin Ahn
 
 <img align="left" src="/images/hbahn.jpg" style="width : 100px; margin-right : 25px">
