@@ -44,12 +44,11 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 
 ###### [Jiyoon Song](https://nslab-cuk.github.io/member/jysong) (Lab Representative)
 
-<img align="left" src="/images/jysong.jpg" style="width : 100px; margin-right : 20px">
+<img align="left" src="/images/jysong.jpg" style="width : 100px; margin-right : 25px">
 
 * Dec 2021 -- Present: Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
 * Research Interest: Medical Knowledge Graph
 
-<br>
 <br>
 
 ###### [Jooho Lee](https://nslab-cuk.github.io/member/jhlee) 
@@ -58,17 +57,16 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 
 ###### Hyebin Ahn
 
-<img align="left" src="/images/hbahn.png" style="width : 100px; margin-right : 20px">
+<img align="left" src="/images/hbahn.png" style="width : 100px; margin-right : 25px">
 
 * Dec 2021 -- Present: Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
 * Research Interest: Multi-modal Representation Learning
 
 <br>
-<br>
 
 ###### [Se Eun Cho](https://nslab-cuk.github.io/member/secho)
 
-<img align="left" src="/images/secho.jpg" style="width : 100px; margin-right : 20px">
+<img align="left" src="/images/secho.jpg" style="width : 100px; margin-right : 25px">
 
 * Jan 2022 -- Present: Dept. of Economics, The Catholic University of Korea, Bucheon, Korea
 * Research Interest: Knowledge Graph Embedding
