@@ -44,43 +44,51 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 
 ###### [Jiyoon Song](https://nslab-cuk.github.io/member/jysong) (Lab Representative)
 
-<img align="left" src="/images/jysong.jpg" style="width : 100px; margin-right : 25px">
-
-* Dec 2021 -- Present: Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
-* Research Interest: Medical Knowledge Graph
-
-<br>
-<br>
+<table border="0" vertical-align="top">  
+	<tr>
+		<td width="120"><img align="left" width="100px" src="https://nslab-cuk.github.io/images/jysong.jpg"/></td>  
+		<td><ul>
+			<li>Dec 2021 -- Present: Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>		
+			<li>Research Interest: Medical Knowledge Graph</li>
+		</ul></td>
+	</tr>
+</table>
 
 ###### [Jooho Lee](https://nslab-cuk.github.io/member/jhlee) 
 
-<img align="left" src="/images/jhlee.jpg" style="width : 100px; margin-right : 25px">
-
-* Nov 2021 -- Present: School of Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea
-* Research Interest: Network Representation Learning
-
-<br>
-<br>
+<table border="0" vertical-align="top">  
+	<tr>
+		<td width="120"><img align="left" width="100px" src="https://nslab-cuk.github.io/images/jhlee.jpg"/></td>  
+		<td><ul>
+			<li>Nov 2021 -- Present: School of Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea</li>		
+			<li>Research Interest: Network Representation Learning</li>
+		</ul></td>
+	</tr>
+</table>
 
 ###### Hyebin Ahn
 
-<img align="left" src="/images/hbahn.jpg" style="width : 100px; margin-right : 25px">
-
-* Dec 2021 -- Present: Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
-* Research Interest: Multi-modal Representation Learning
-
-<br>
-<br>
+<table border="0" vertical-align="top">  
+	<tr>
+		<td width="120"><img align="left" width="100px" src="https://nslab-cuk.github.io/images/hbahn.jpg"/></td>  
+		<td><ul>
+			<li>Dec 2021 -- Present: Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>		
+			<li>Research Interest: Multi-modal Representation Learning</li>
+		</ul></td>
+	</tr>
+</table>
 
 ###### [Se Eun Cho](https://nslab-cuk.github.io/member/secho)
 
-<img align="left" src="/images/secho.jpg" style="width : 100px; margin-right : 25px">
-
-* Jan 2022 -- Present: Dept. of Economics, The Catholic University of Korea, Bucheon, Korea
-* Research Interest: Knowledge Graph Embedding
-
-<br>
-<br>
+<table border="0" vertical-align="top">  
+	<tr>
+		<td width="120"><img align="left" width="100px" src="https://nslab-cuk.github.io/images/secho.jpg"/></td>  
+		<td><ul>
+			<li>Jan 2022 -- Present: Dept. of Economics, The Catholic University of Korea, Bucheon, Korea</li>		
+			<li>Research Interest: Knowledge Graph Embedding</li>
+		</ul></td>
+	</tr>
+</table>
 
 ###### [Yeongmin Kim](https://nslab-cuk.github.io/member/ymkim) 
 * Apr 2022 -- Present: School of Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea
