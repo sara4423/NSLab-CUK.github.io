@@ -66,6 +66,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
   * Research Interest: Knowledge Graph Embedding
 
 * TBA
+* TBA
 
 ###### [Yeongmin Kim](https://nslab-cuk.github.io/member/ymkim) 
 * Apr 2022 -- Present: School of Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea
