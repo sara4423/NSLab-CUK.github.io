@@ -24,6 +24,9 @@ Projects
 
 Participant
 ------------
+* Industry-Academic Cooperation Project, "**Development of Veterinary Information Services based on Chatbot**," [IntoCNS Co., Ltd.](http://intoh.monoalliance.com/), Feb 2022 -- Oct 2022
+	* TBA
+
 * Industry-Academic Cooperation Project, "**Chatbot-based Kiosk Interface and Menu Recommendation System**," [Order Queen Co., Ltd.](http://www.orderqueen.co.kr/), Feb 2022 -- Apr 2022
 	* TBA
 
