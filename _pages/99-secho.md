@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Seeun Cho"
-permalink: /member/ymkim
+permalink: /member/secho
 image: 
 ---
 
