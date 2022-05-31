@@ -66,7 +66,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 	</tr>
 </table>
 
-###### Hyebin Ahn
+###### [Hyebin Ahn](https://nslab-cuk.github.io/member/hbahn) 
 
 <table border="0">  
 	<tr valign="top">
