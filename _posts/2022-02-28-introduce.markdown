@@ -6,7 +6,7 @@ image:  Social_Network.png
 tags:   
 ---
 
-![message_svg](https://github.com/NSLab-CUK/NSLab-CUK/blob/master/chat.svg)
+<img src="https://github.com/NSLab-CUK/NSLab-CUK/blob/master/chat.svg">
 
 ***
 ## Network Science Lab, The Catholic University of Korea
@@ -39,5 +39,6 @@ NS Lab@CUK is recruiting new members with fashion and enthusiasm for artificial 
 
 ***
 
-[![snake svg](https://github.com/NSLab-CUK/NSLab-CUK/blob/output/github-contribution-grid-snake.svg)](https://github.com/NSLab-CUK)
+<img src="https://github.com/NSLab-CUK/NSLab-CUK/blob/output/github-contribution-grid-snake.svg">
+
 
