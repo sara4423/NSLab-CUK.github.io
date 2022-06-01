@@ -54,7 +54,7 @@ toc_label: "Table of Contents"
 
 ### Cross-domain Recommender System for Retail Kiosk
 
-* TBA
+* [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Kiosk-RecSys)
 
 ***
 # Graph Convolutional Networks
