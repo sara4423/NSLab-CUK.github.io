@@ -39,5 +39,5 @@ NS Lab@CUK is recruiting new members with fashion and enthusiasm for artificial 
 
 ***
 
-
+[![snake svg](https://github.com/NSLab-CUK/NSLab-CUK/blob/output/github-contribution-grid-snake.svg)](https://github.com/NSLab-CUK)
 
