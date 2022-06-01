@@ -6,6 +6,8 @@ image:  Social_Network.png
 tags:   
 ---
 
+![message_svg](https://github.com/NSLab-CUK/NSLab-CUK/blob/master/chat.svg)
+
 ***
 ## Network Science Lab, The Catholic University of Korea
 
