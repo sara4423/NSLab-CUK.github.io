@@ -74,6 +74,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 		<td><ul>
 			<li>Dec 2021 -- Present: Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Research Interest: Multi-modal Representation Learning</li>
+			<li><a href="https://github.com/hyebing"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
 		</ul></td>
 	</tr>
 </table>
@@ -86,6 +87,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 		<td><ul>
 			<li>Jan 2022 -- Present: Dept. of Economics, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Research Interest: Knowledge Graph Embedding</li>
+			<li><a href="https://github.com/seny1004"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
 		</ul></td>
 	</tr>
 </table>
