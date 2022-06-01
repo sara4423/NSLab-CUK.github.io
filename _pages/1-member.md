@@ -66,7 +66,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 	</tr>
 </table>
 
-###### [Hyebin Ahn](https://nslab-cuk.github.io/member/hbahn) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub)](https://github.com/hyebing)
+###### [Hyebin Ahn](https://nslab-cuk.github.io/member/hbahn) 
 
 <table border="0">  
 	<tr valign="top">
@@ -79,7 +79,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 	</tr>
 </table>
 
-###### [Se Eun Cho](https://nslab-cuk.github.io/member/secho) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub)](https://github.com/seny1004)
+###### [Se Eun Cho](https://nslab-cuk.github.io/member/secho) 
 
 <table border="0">  
 	<tr valign="top">
