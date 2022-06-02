@@ -108,7 +108,7 @@ image:
 ##### Dec 3rd, 2021
 {:.no_toc}
 
-* Hyebin Ahn has joined as an undergraduate researcher. 
+* [Hyebin Ahn](https://nslab-cuk.github.io/member/hbahn) has joined as an undergraduate researcher. 
 
 ***
 ##### Nov 11th, 2021
