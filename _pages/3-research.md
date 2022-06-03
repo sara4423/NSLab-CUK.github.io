@@ -76,12 +76,14 @@ toc_label: "Table of Contents"
 ***
 ## Single-cell Analysis by Combining High-Frequency Single-Beam Acoustic Tweezers and Deep Neural Networks
 
+* Developing (semi-) automated diagnosis systems for various diseases 
+  * Inflicting high-frequency ultrasonic wave on live cells and analyzing microscopic images/back-scattered signals using deep learning-empowered models
+  * Currently focusing on: diabetes, hypernatremia, hyperpotassemia, breast cancer, prostate cancer, etc. 
+
 <p align="center">
   <img width="700" src="/images/Fig4.JPG">
+  <em>Inflicting high-frequency ultrasonic wave on invasive/non-invasive breast cancer cells.</em>
 </p>
-
-* Developing (semi-) automated diagnosis systems for various diseases by inflicting high-frequency ultrasound signals to live cells and analyzing back-scattered signals using deep learning-empowered models
-  * Currently focusing on: diabetes, hypernatremia, hyperpotassemia, breast cancer, prostate cancer, etc. 
 
 * Hyeon-Ju Jeon, Hae Gyun Lim, K. Kirk Shung, O-Joun Lee†, Min Gon Kim†: Automated cell-type classification combining dilated convolutional neural networks with label-free acoustic sensing. Scientific Reports. (†: Co-correspondence) <br>[![Status](https://img.shields.io/badge/Status-Under%20Review-lightgrey?style=flat-square)](https://www.nature.com/srep/) 
 
