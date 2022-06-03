@@ -74,11 +74,14 @@ toc_label: "Table of Contents"
 # Medical Image and Signal Processing
 
 ***
-## Single-cell Analysis using the Integration of High-Frequency Single-Beam Acoustic Tweezers and Deep Neural Networks
+## Single-cell Analysis by Combining High-Frequency Single-Beam Acoustic Tweezers and Deep Neural Networks
 
 <p align="center">
   <img width="700" src="/images/Fig4.JPG">
 </p>
+
+* Developing (semi-) automated diagnosis systems for various diseases by inflicting high-frequency ultrasound signals to live cells and analyzing back-scattered signals using deep learning-empowered models
+  * Currently focusing on: diabetes, hypernatremia, hyperpotassemia, breast cancer, prostate cancer, etc. 
 
 * Hyeon-Ju Jeon, Hae Gyun Lim, K. Kirk Shung, O-Joun Lee†, Min Gon Kim†: Automated cell-type classification combining dilated convolutional neural networks with label-free acoustic sensing. Scientific Reports. (†: Co-correspondence) <br>[![Status](https://img.shields.io/badge/Status-Under%20Review-lightgrey?style=flat-square)](https://www.nature.com/srep/) 
 
